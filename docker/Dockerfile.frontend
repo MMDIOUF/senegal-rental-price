@@ -1,0 +1,21 @@
+FROM python:3.11-slim AS builder
+WORKDIR /build
+COPY pyproject.toml README.md ./
+COPY src ./src
+RUN --mount=type=cache,target=/root/.cache/pip python -m venv /opt/venv \
+    && /opt/venv/bin/pip install --no-cache-dir --upgrade pip \
+    && /opt/venv/bin/pip install ".[frontend]"
+
+FROM python:3.11-slim AS runtime
+ENV PATH="/opt/venv/bin:$PATH" \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    API_URL=http://api:8000
+RUN groupadd --system app && useradd --system --gid app --create-home app
+WORKDIR /app
+COPY --from=builder /opt/venv /opt/venv
+COPY frontend ./frontend
+USER app
+EXPOSE 8501
+HEALTHCHECK --interval=30s --timeout=3s CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:8501/_stcore/health')"
+CMD ["streamlit", "run", "frontend/app.py", "--server.address=0.0.0.0", "--server.port=8501"]

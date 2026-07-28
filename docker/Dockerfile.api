@@ -1,0 +1,22 @@
+FROM python:3.11-slim AS builder
+WORKDIR /build
+COPY pyproject.toml README.md ./
+COPY src ./src
+RUN --mount=type=cache,target=/root/.cache/pip python -m venv /opt/venv \
+    && /opt/venv/bin/pip install --no-cache-dir --upgrade pip \
+    && /opt/venv/bin/pip install .
+
+FROM python:3.11-slim AS runtime
+ENV PATH="/opt/venv/bin:$PATH" \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    MODEL_PATH=/app/models/random_forest.joblib
+RUN groupadd --system app && useradd --system --gid app --create-home app
+WORKDIR /app
+COPY --from=builder /opt/venv /opt/venv
+COPY api ./api
+COPY models ./models
+USER app
+EXPOSE 8000
+HEALTHCHECK --interval=30s --timeout=3s CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"
+CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
