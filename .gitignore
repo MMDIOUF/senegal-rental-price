@@ -16,8 +16,8 @@ outputs/
 tmp/
 .pip-cache/
 *.egg-info/
-tutorial/.runner-state.json
-tutorial/*.log
+tutorial/
+scripts/start_tutorial.ps1
 Projet M2DSIA.pdf
 output/pdf/Guide_soutenance_M2DSIA.pdf
 scripts/generate_documents.py
