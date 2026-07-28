@@ -1,3 +1,0 @@
-[console_scripts]
-senegal-rental-generate-data = senegal_rental_price.data.generate:main
-senegal-rental-train = senegal_rental_price.models.train:main

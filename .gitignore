@@ -15,6 +15,7 @@ outputs/
 .streamlit/
 tmp/
 .pip-cache/
+*.egg-info/
 tutorial/.runner-state.json
 tutorial/*.log
 Projet M2DSIA.pdf
