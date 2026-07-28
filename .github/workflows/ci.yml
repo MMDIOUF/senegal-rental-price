@@ -32,7 +32,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Create CI model placeholder context
-        run: mkdir -p models && touch models/random_forest.joblib
+        run: mkdir -p models && touch models/gradient_boosting.joblib
       - name: Build API image
         run: docker build -f docker/Dockerfile.api -t senegal-rental-api:ci .
-

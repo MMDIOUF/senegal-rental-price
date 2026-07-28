@@ -1,8 +1,8 @@
 name: random_forest
 params:
-  n_estimators: 160
-  max_depth: 14
-  min_samples_leaf: 2
+  n_estimators: 500
+  max_depth: 18
+  min_samples_leaf: 1
+  max_features: 0.9
   random_state: ${seed}
   n_jobs: -1
-

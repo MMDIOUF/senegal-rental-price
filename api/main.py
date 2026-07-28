@@ -56,7 +56,23 @@ def predict(
     payload = request.model_dump(mode="json")
     payload["equipements"] = "|".join(payload["equipements"])
     price = predict_price(model, payload)
+    uncertainty = float(model.metadata.get("metrics", {}).get("p80_abs_error", 0.0))
+    reference = model.metadata.get("reference", {})
+    target_min = float(reference.get("target_min", 0.0))
+    target_max = float(reference.get("target_max", float("inf")))
+    in_range = target_min <= price <= target_max
+    factors = [f"localisation : {request.ville.value} / {request.quartier}"]
+    factors.append(f"surface : {request.surface_m2:.0f} m²")
+    factors.append(f"type : {request.type_bien.value}")
+    if request.meuble:
+        factors.append("prime : bien meublé")
+    if request.equipements:
+        factors.append(f"confort : {len(request.equipements)} équipement(s)")
     return PredictionResponse(
         prix_loyer_mensuel_estime=round(price / 1_000) * 1_000,
+        fourchette_basse=max(0, round((price - uncertainty) / 1_000) * 1_000),
+        fourchette_haute=round((price + uncertainty) / 1_000) * 1_000,
+        fiabilite="bonne" if in_range else "prudente",
+        facteurs_principaux=factors,
         model_version=str(model.metadata["version"]),
     )

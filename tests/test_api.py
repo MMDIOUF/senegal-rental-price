@@ -20,6 +20,8 @@ METADATA: dict[str, Any] = {
     "metrics": {"mae": 10.0, "rmse": 12.0, "r2": 0.9},
     "mlflow_run_id": "test-run",
     "training_rows": 100,
+    "test_rows": 25,
+    "reference": {"target_min": 100_000, "target_max": 2_000_000},
 }
 
 
@@ -60,6 +62,9 @@ def test_predict_rounds_to_thousand() -> None:
     response = client.post("/predict", json=payload())
     assert response.status_code == 200
     assert response.json()["prix_loyer_mensuel_estime"] == 488_000
+    assert response.json()["fourchette_basse"] == 488_000
+    assert response.json()["fourchette_haute"] == 488_000
+    assert response.json()["fiabilite"] == "bonne"
 
 
 def test_invalid_surface_is_rejected_with_422() -> None:

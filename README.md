@@ -1,7 +1,5 @@
 # Senegal Rental Price
 
-[![CI](https://github.com/OWNER/REPOSITORY/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPOSITORY/actions/workflows/ci.yml)
-
 Projet M2 DSIA de mise en production d'un modèle de prédiction des loyers au Sénégal.
 L'objectif principal est la qualité de la chaîne MLOps : reproductibilité, typage, tests,
 configuration, API, suivi d'expériences, conteneurs et CI.
@@ -18,18 +16,19 @@ pip install ".[dev]"
 senegal-rental-train
 ```
 
-Comparer les deux modèles :
+Comparer les trois modèles sur le même split stratifié :
 
 ```bash
 python -m senegal_rental_price.models.train model=ridge
 python -m senegal_rental_price.models.train model=random_forest
+python -m senegal_rental_price.models.train model=gradient_boosting
 mlflow ui --backend-store-uri sqlite:///mlflow.db
 ```
 
 Hydra permet de modifier un paramètre sans changer le code :
 
 ```bash
-python -m senegal_rental_price.models.train model=random_forest model.params.max_depth=8
+python -m senegal_rental_price.models.train model=gradient_boosting model.params.max_depth=2
 ```
 
 ## Exécution locale
@@ -63,6 +62,7 @@ pytest --cov=src --cov-fail-under=70
 ## Architecture
 
 Le notebook est réservé à l'exploration. La logique réutilisable vit dans le package `src/`.
+Le Gradient Boosting est retenu après comparaison de MAE, RMSE, R², MAPE et biais par ville.
 Le pipeline scikit-learn sérialise prétraitement et modèle ensemble, ce qui empêche les écarts
 entre entraînement et prédiction. FastAPI charge cet artefact une fois au démarrage. Le front
 ne connaît pas le modèle : il appelle exclusivement l'API.
@@ -74,6 +74,3 @@ ne connaît pas le modèle : il appelle exclusivement l'API.
 - Il n'y a ni authentification, ni surveillance de dérive, ni réentraînement automatique.
 - Le registre est un stockage MLflow local pour la démonstration ; une production réelle
   utiliserait un backend distant et un stockage d'artefacts persistant.
-
-Avant de publier le dépôt, remplacer `OWNER/REPOSITORY` dans le badge CI par l'adresse GitHub
-réelle du groupe.

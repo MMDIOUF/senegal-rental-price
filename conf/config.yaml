@@ -1,5 +1,5 @@
 defaults:
-  - model: random_forest
+  - model: gradient_boosting
   - data: default
   - _self_
 

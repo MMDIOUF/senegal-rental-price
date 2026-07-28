@@ -14,5 +14,8 @@ outputs/
 .hydra/
 .streamlit/
 tmp/
+.pip-cache/
 tutorial/.runner-state.json
 tutorial/*.log
+Projet M2DSIA.pdf
+output/pdf/Guide_soutenance_M2DSIA.pdf

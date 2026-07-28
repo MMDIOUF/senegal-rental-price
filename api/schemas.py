@@ -55,6 +55,10 @@ class PredictionResponse(BaseModel):
     """Resultat d'une estimation."""
 
     prix_loyer_mensuel_estime: float
+    fourchette_basse: float
+    fourchette_haute: float
+    fiabilite: str
+    facteurs_principaux: list[str]
     devise: str = "FCFA"
     model_version: str
 
@@ -75,3 +79,7 @@ class ModelInfoResponse(BaseModel):
     metrics: dict[str, float]
     mlflow_run_id: str
     training_rows: int
+    test_rows: int = 0
+    segment_metrics: dict[str, dict[str, float]] = Field(default_factory=dict)
+    reference: dict[str, object] = Field(default_factory=dict)
+    data_provenance: str = "unknown"

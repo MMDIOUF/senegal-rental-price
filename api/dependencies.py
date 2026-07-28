@@ -11,5 +11,5 @@ def get_model() -> ModelBundle:
     """Charge le modele une seule fois par processus."""
     import os
 
-    path = Path(os.getenv("MODEL_PATH", "models/random_forest.joblib"))
+    path = Path(os.getenv("MODEL_PATH", "models/gradient_boosting.joblib"))
     return load_bundle(path)

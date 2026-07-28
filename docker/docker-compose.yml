@@ -4,7 +4,7 @@ services:
       context: ..
       dockerfile: docker/Dockerfile.api
     environment:
-      MODEL_PATH: /app/models/random_forest.joblib
+      MODEL_PATH: /app/models/gradient_boosting.joblib
       LOG_LEVEL: INFO
     ports:
       - "8000:8000"
@@ -22,4 +22,3 @@ services:
       api:
         condition: service_healthy
     restart: unless-stopped
-

@@ -9,20 +9,25 @@ from senegal_rental_price.utils.logger import configure_logging, get_logger
 
 LOGGER = get_logger(__name__)
 
-CITY_BASE = {
-    "Dakar": 180_000,
-    "Thiès": 90_000,
-    "Saint-Louis": 82_000,
-    "Mbour": 95_000,
-    "Saly": 140_000,
+CITY_MARKET = {
+    "Dakar": {"base": 65_000, "price_m2": 4_250},
+    "Thiès": {"base": 42_000, "price_m2": 2_050},
+    "Saint-Louis": {"base": 40_000, "price_m2": 1_900},
+    "Mbour": {"base": 44_000, "price_m2": 2_250},
+    "Saly": {"base": 58_000, "price_m2": 3_050},
 }
-QUARTER_FACTORS = {
-    "Almadies": 2.00,
-    "Mermoz": 1.55,
-    "Plateau": 1.75,
-    "Yoff": 1.20,
-    "Parcelles Assainies": 0.90,
-    "Centre": 1.00,
+CITY_QUARTERS = {
+    "Dakar": {
+        "Almadies": 1.42,
+        "Mermoz": 1.24,
+        "Plateau": 1.32,
+        "Yoff": 1.08,
+        "Parcelles Assainies": 0.86,
+    },
+    "Thiès": {"Grand Standing": 1.18, "Randoulène": 1.00, "Médina Fall": 0.88},
+    "Saint-Louis": {"Île": 1.25, "Sor": 0.96, "Hydrobase": 1.12},
+    "Mbour": {"Zone résidentielle": 1.16, "Grand Mbour": 0.94, "Mbour centre": 1.02},
+    "Saly": {"Saly Portudal": 1.23, "Saly centre": 1.00, "Niakh Niakhal": 0.91},
 }
 EQUIPMENT_CHOICES = ["climatisation", "parking", "gardiennage", "piscine", "groupe_electrogene"]
 
@@ -30,7 +35,7 @@ EQUIPMENT_CHOICES = ["climatisation", "parking", "gardiennage", "piscine", "grou
 def generate_dataset(rows: int = 1_200, seed: int = 42) -> pd.DataFrame:
     """Cree un jeu synthetique coherent sans reproduire de vraies annonces."""
     rng = np.random.default_rng(seed)
-    cities = rng.choice(list(CITY_BASE), size=rows, p=[0.55, 0.14, 0.10, 0.11, 0.10])
+    cities = rng.choice(list(CITY_MARKET), size=rows, p=[0.40, 0.16, 0.14, 0.16, 0.14])
     property_types = rng.choice(
         ["Appartement", "Maison", "Studio", "Villa"], size=rows, p=[0.48, 0.24, 0.16, 0.12]
     )
@@ -44,28 +49,22 @@ def generate_dataset(rows: int = 1_200, seed: int = 42) -> pd.DataFrame:
     prices: list[int] = []
     type_factor = {"Appartement": 1.0, "Maison": 1.08, "Studio": 0.92, "Villa": 1.55}
     for index, city in enumerate(cities):
-        quarter = (
-            str(
-                rng.choice(
-                    ["Almadies", "Mermoz", "Plateau", "Yoff", "Parcelles Assainies"],
-                    p=[0.12, 0.18, 0.10, 0.25, 0.35],
-                )
-            )
-            if city == "Dakar"
-            else "Centre"
-        )
-        selected = [equipment for equipment in EQUIPMENT_CHOICES if rng.random() < 0.22]
-        equipment_bonus = len(selected) * 18_000 + (70_000 if "piscine" in selected else 0)
+        quarter_market = CITY_QUARTERS[str(city)]
+        quarter = str(rng.choice(list(quarter_market)))
+        selected = [equipment for equipment in EQUIPMENT_CHOICES if rng.random() < 0.24]
+        equipment_bonus = len(selected) * 14_000 + (45_000 if "piscine" in selected else 0)
+        city_market = CITY_MARKET[str(city)]
         expected = (
-            CITY_BASE[str(city)]
-            + surface[index] * (2_500 if city == "Dakar" else 1_450)
-            + rooms[index] * 12_000
+            city_market["base"]
+            + surface[index] * city_market["price_m2"]
+            + rooms[index] * 8_500
+            + bedrooms[index] * 7_500
             + equipment_bonus
         )
-        expected *= QUARTER_FACTORS[quarter] * type_factor[str(property_types[index])]
+        expected *= quarter_market[quarter] * type_factor[str(property_types[index])]
         if furnished[index]:
-            expected *= 1.22
-        noisy_price = expected * rng.lognormal(mean=0, sigma=0.13)
+            expected *= 1.18
+        noisy_price = expected * rng.lognormal(mean=0, sigma=0.08)
         quarters.append(quarter)
         equipments.append("|".join(selected))
         prices.append(int(round(noisy_price / 5_000) * 5_000))

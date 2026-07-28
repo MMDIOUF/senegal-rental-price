@@ -1,0 +1,7 @@
+name: gradient_boosting
+params:
+  n_estimators: 350
+  learning_rate: 0.035
+  max_depth: 3
+  loss: huber
+  random_state: ${seed}
