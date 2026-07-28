@@ -20,3 +20,4 @@ tutorial/.runner-state.json
 tutorial/*.log
 Projet M2DSIA.pdf
 output/pdf/Guide_soutenance_M2DSIA.pdf
+scripts/generate_documents.py
