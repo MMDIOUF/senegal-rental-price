@@ -1,5 +1,7 @@
 # Senegal Rental Price
 
+[![CI](https://github.com/MMDIOUF/senegal-rental-price/actions/workflows/ci.yml/badge.svg)](https://github.com/MMDIOUF/senegal-rental-price/actions/workflows/ci.yml)
+
 Projet M2 DSIA de mise en production d'un modèle de prédiction des loyers au Sénégal.
 L'objectif principal est la qualité de la chaîne MLOps : reproductibilité, typage, tests,
 configuration, API, suivi d'expériences, conteneurs et CI.
