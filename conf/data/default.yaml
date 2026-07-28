@@ -1,0 +1,4 @@
+raw_path: data/raw/locations_senegal.csv
+processed_path: data/processed/locations_senegal.csv
+target: prix_loyer_mensuel
+

@@ -1,0 +1,1201 @@
+ville,quartier,type_bien,surface_m2,nb_pieces,nb_chambres,meuble,equipements,prix_loyer_mensuel
+Saint-Louis,Centre,Maison,121.5,5,4,False,climatisation|gardiennage|groupe_electrogene,415000
+Dakar,Parcelles Assainies,Maison,86.3,3,2,False,piscine,555000
+Mbour,Centre,Studio,44.0,1,0,False,climatisation|piscine,275000
+Saint-Louis,Centre,Maison,95.1,3,2,False,gardiennage|piscine,370000
+Dakar,Yoff,Appartement,156.1,7,6,True,climatisation,1195000
+Saly,Centre,Appartement,181.7,5,4,False,gardiennage,475000
+Saint-Louis,Centre,Maison,72.8,2,1,False,gardiennage,240000
+Saint-Louis,Centre,Maison,263.2,9,7,True,gardiennage,750000
+Dakar,Plateau,Appartement,150.1,5,4,False,piscine|groupe_electrogene,1195000
+Dakar,Almadies,Appartement,53.3,3,1,False,piscine|groupe_electrogene,660000
+Dakar,Plateau,Studio,46.5,2,0,False,climatisation|gardiennage|groupe_electrogene,615000
+Saly,Centre,Studio,82.8,3,1,False,,280000
+Thiès,Centre,Maison,72.7,2,0,False,piscine,355000
+Mbour,Centre,Appartement,113.3,4,3,True,gardiennage|groupe_electrogene,415000
+Dakar,Parcelles Assainies,Appartement,90.0,3,1,False,parking,575000
+Dakar,Almadies,Maison,76.0,3,2,False,parking|piscine,1075000
+Thiès,Centre,Appartement,34.7,1,0,False,,145000
+Dakar,Parcelles Assainies,Maison,123.3,5,3,False,gardiennage,510000
+Mbour,Centre,Maison,32.8,2,1,False,piscine,295000
+Thiès,Centre,Appartement,150.4,4,3,False,parking,320000
+Saint-Louis,Centre,Appartement,25.1,1,0,True,gardiennage,160000
+Dakar,Parcelles Assainies,Appartement,31.6,1,0,False,,290000
+Saly,Centre,Villa,53.2,3,2,False,climatisation,420000
+Mbour,Centre,Maison,69.2,3,1,False,climatisation,355000
+Saint-Louis,Centre,Appartement,61.6,3,1,False,,245000
+Dakar,Yoff,Villa,69.1,1,0,False,parking,800000
+Dakar,Parcelles Assainies,Appartement,101.6,5,3,True,climatisation,660000
+Dakar,Parcelles Assainies,Appartement,53.9,1,0,False,,285000
+Dakar,Parcelles Assainies,Villa,102.0,4,2,False,,670000
+Thiès,Centre,Appartement,18.0,1,0,True,,150000
+Saint-Louis,Centre,Appartement,52.7,1,0,False,climatisation|gardiennage,220000
+Saly,Centre,Maison,30.7,1,0,False,groupe_electrogene,280000
+Dakar,Parcelles Assainies,Appartement,149.5,5,4,True,parking|piscine,790000
+Dakar,Parcelles Assainies,Maison,58.0,4,3,False,parking|piscine,515000
+Dakar,Mermoz,Appartement,119.5,5,3,False,parking|piscine,905000
+Dakar,Parcelles Assainies,Appartement,27.2,2,1,True,climatisation|parking,325000
+Dakar,Mermoz,Appartement,180.2,7,6,False,,1195000
+Dakar,Parcelles Assainies,Appartement,92.7,4,2,False,climatisation,350000
+Dakar,Plateau,Appartement,224.7,7,5,True,gardiennage,2025000
+Thiès,Centre,Appartement,87.2,4,3,True,,350000
+Dakar,Parcelles Assainies,Studio,34.9,1,0,False,piscine,250000
+Mbour,Centre,Appartement,49.0,3,2,False,,250000
+Saint-Louis,Centre,Appartement,77.3,3,2,False,parking|piscine,350000
+Dakar,Yoff,Appartement,50.1,1,0,False,groupe_electrogene,485000
+Mbour,Centre,Appartement,142.1,5,4,False,,365000
+Mbour,Centre,Appartement,91.3,4,2,False,piscine,455000
+Dakar,Parcelles Assainies,Maison,50.5,2,1,False,gardiennage,305000
+Dakar,Yoff,Appartement,131.3,5,3,False,groupe_electrogene,715000
+Thiès,Centre,Villa,71.8,2,0,False,,315000
+Dakar,Parcelles Assainies,Villa,128.3,4,3,False,climatisation,765000
+Dakar,Yoff,Appartement,65.6,2,1,False,climatisation|parking,475000
+Dakar,Plateau,Appartement,115.3,4,3,False,,1050000
+Saint-Louis,Centre,Appartement,70.4,2,1,True,piscine,300000
+Thiès,Centre,Maison,142.2,6,4,False,,450000
+Saint-Louis,Centre,Appartement,27.6,1,0,False,parking|piscine,245000
+Saint-Louis,Centre,Studio,41.9,2,0,True,parking,255000
+Dakar,Parcelles Assainies,Studio,81.1,3,2,False,piscine,290000
+Thiès,Centre,Studio,59.5,1,0,False,gardiennage|piscine|groupe_electrogene,295000
+Dakar,Almadies,Maison,69.3,1,0,False,parking,990000
+Dakar,Parcelles Assainies,Villa,122.1,4,2,False,groupe_electrogene,805000
+Thiès,Non renseigne,Appartement,68.5,4,2,False,groupe_electrogene,315000
+Dakar,Plateau,Appartement,103.9,4,3,False,parking,1065000
+Thiès,Centre,Appartement,52.5,1,0,False,,150000
+Saint-Louis,Centre,Villa,23.8,1,0,True,gardiennage|piscine,420000
+Thiès,Centre,Maison,127.9,5,4,False,,365000
+Thiès,Centre,Studio,200.7,7,5,True,groupe_electrogene,685000
+Thiès,Centre,Appartement,98.4,4,2,False,gardiennage,240000
+Dakar,Parcelles Assainies,Villa,83.5,2,1,False,,540000
+Dakar,Plateau,Maison,93.0,4,2,False,climatisation,1000000
+Dakar,Almadies,Maison,167.7,7,5,False,parking|groupe_electrogene,1830000
+Dakar,Yoff,Villa,99.0,3,2,False,gardiennage|groupe_electrogene,820000
+Dakar,Mermoz,Appartement,131.0,4,2,True,gardiennage,1170000
+Mbour,Centre,Appartement,128.1,5,4,True,,415000
+Dakar,Mermoz,Maison,148.2,6,5,True,climatisation|parking,1550000
+Dakar,Yoff,Appartement,82.5,3,2,True,gardiennage|groupe_electrogene,655000
+Dakar,Parcelles Assainies,Appartement,65.1,3,2,False,groupe_electrogene,355000
+Dakar,Non renseigne,Appartement,115.9,4,2,False,climatisation|piscine,1075000
+Thiès,Centre,Appartement,143.0,4,2,False,,440000
+Thiès,Centre,Studio,156.7,7,5,False,parking|piscine,400000
+Saint-Louis,Centre,Maison,178.1,6,5,True,,680000
+Thiès,Centre,Appartement,136.5,4,2,False,parking,300000
+Dakar,Parcelles Assainies,Appartement,63.2,2,1,False,parking,405000
+Mbour,Centre,Appartement,98.3,4,3,False,climatisation,305000
+Dakar,Yoff,Maison,93.8,3,2,False,parking,525000
+Dakar,Almadies,Villa,88.5,3,2,True,,1860000
+Dakar,Parcelles Assainies,Villa,116.1,4,2,False,piscine|groupe_electrogene,860000
+Saint-Louis,Centre,Appartement,78.5,3,1,False,,240000
+Dakar,Mermoz,Appartement,78.5,1,0,False,,615000
+Dakar,Yoff,Appartement,206.8,9,8,True,parking|groupe_electrogene,1260000
+Dakar,Parcelles Assainies,Maison,84.8,3,1,True,climatisation|parking,595000
+Dakar,Parcelles Assainies,Appartement,147.7,6,5,False,,570000
+Saint-Louis,Centre,Maison,152.0,4,3,False,,415000
+Dakar,Almadies,Maison,99.7,3,1,False,,885000
+Dakar,Almadies,Appartement,80.2,2,1,False,climatisation,825000
+Dakar,Almadies,Appartement,53.8,3,1,False,gardiennage,720000
+Thiès,Centre,Appartement,32.5,1,0,False,gardiennage,165000
+Dakar,Almadies,Appartement,120.3,5,4,False,parking,1165000
+Dakar,Non renseigne,Appartement,108.1,3,2,False,,635000
+Dakar,Plateau,Studio,129.4,4,3,False,gardiennage|groupe_electrogene,690000
+Saly,Centre,Appartement,67.5,2,1,False,piscine,380000
+Saly,Centre,Appartement,217.4,9,7,False,groupe_electrogene,525000
+Saint-Louis,Centre,Maison,113.0,3,2,False,piscine,470000
+Dakar,Mermoz,Studio,83.1,2,1,False,climatisation|parking,635000
+Saly,Centre,Appartement,22.8,1,0,False,,190000
+Saint-Louis,Centre,Studio,71.7,2,1,False,piscine,230000
+Saint-Louis,Centre,Villa,132.5,4,3,False,,655000
+Dakar,Yoff,Maison,175.8,5,3,False,,880000
+Dakar,Parcelles Assainies,Maison,90.1,3,2,False,groupe_electrogene,455000
+Dakar,Yoff,Appartement,190.2,5,4,False,climatisation|groupe_electrogene,1160000
+Saly,Centre,Villa,51.4,1,0,False,parking,395000
+Dakar,Almadies,Appartement,109.8,5,3,False,gardiennage,1035000
+Dakar,Yoff,Villa,111.4,4,3,False,gardiennage,1080000
+Dakar,Yoff,Maison,120.8,4,2,True,piscine|groupe_electrogene,1110000
+Thiès,Centre,Appartement,96.7,3,2,False,parking|gardiennage,330000
+Dakar,Mermoz,Appartement,106.7,3,1,False,piscine,1010000
+Mbour,Centre,Maison,50.7,1,0,False,climatisation,215000
+Saint-Louis,Centre,Maison,167.3,6,5,False,parking|piscine,550000
+Saint-Louis,Centre,Appartement,140.4,6,5,False,gardiennage,415000
+Dakar,Plateau,Studio,104.6,4,3,False,,815000
+Thiès,Centre,Studio,142.1,6,5,False,piscine,545000
+Thiès,Centre,Maison,170.0,5,4,False,climatisation,465000
+Thiès,Centre,Appartement,119.9,4,2,False,gardiennage,335000
+Dakar,Yoff,Appartement,229.2,8,7,False,parking|groupe_electrogene,1065000
+Dakar,Parcelles Assainies,Studio,125.0,4,2,False,groupe_electrogene,375000
+Dakar,Parcelles Assainies,Appartement,55.3,4,3,False,gardiennage,355000
+Dakar,Parcelles Assainies,Studio,101.9,2,1,False,gardiennage|piscine,370000
+Dakar,Mermoz,Appartement,144.9,5,4,True,parking|gardiennage,1370000
+Dakar,Plateau,Maison,170.1,7,6,False,gardiennage|piscine|groupe_electrogene,1275000
+Dakar,Parcelles Assainies,Appartement,97.7,2,0,True,climatisation|piscine|groupe_electrogene,540000
+Thiès,Centre,Appartement,52.9,1,0,False,climatisation|gardiennage,165000
+Dakar,Parcelles Assainies,Studio,79.3,2,1,False,groupe_electrogene,330000
+Saly,Centre,Maison,39.9,1,0,False,,245000
+Thiès,Centre,Maison,131.5,3,1,False,groupe_electrogene,335000
+Dakar,Mermoz,Villa,71.2,3,2,False,,915000
+Thiès,Centre,Villa,60.3,3,1,False,,335000
+Dakar,Mermoz,Studio,138.1,5,4,False,parking|piscine,860000
+Saly,Centre,Appartement,188.3,6,5,False,,560000
+Dakar,Yoff,Maison,60.2,2,1,False,climatisation|parking,445000
+Saint-Louis,Centre,Studio,98.1,3,1,False,climatisation,200000
+Dakar,Mermoz,Appartement,81.1,3,2,True,,825000
+Dakar,Plateau,Appartement,174.0,8,6,False,,1365000
+Dakar,Yoff,Studio,86.1,3,2,False,gardiennage|groupe_electrogene,505000
+Saly,Centre,Maison,50.0,1,0,True,climatisation|parking|groupe_electrogene,410000
+Thiès,Centre,Maison,88.2,3,2,False,,230000
+Dakar,Non renseigne,Villa,156.0,4,3,True,,1065000
+Dakar,Yoff,Maison,78.5,2,0,False,,615000
+Dakar,Mermoz,Appartement,63.8,1,0,True,parking|piscine,845000
+Dakar,Almadies,Appartement,84.0,3,1,True,gardiennage|groupe_electrogene,1160000
+Dakar,Mermoz,Appartement,50.9,3,1,False,,495000
+Dakar,Parcelles Assainies,Appartement,81.0,3,1,False,parking|gardiennage,395000
+Mbour,Centre,Studio,66.4,3,2,False,piscine|groupe_electrogene,310000
+Mbour,Centre,Studio,250.1,8,6,False,gardiennage|groupe_electrogene,565000
+Dakar,Yoff,Appartement,26.4,1,0,True,piscine,540000
+Thiès,Centre,Appartement,55.2,2,1,False,piscine,345000
+Dakar,Parcelles Assainies,Studio,63.7,2,0,False,parking|piscine|groupe_electrogene,340000
+Thiès,Centre,Appartement,51.1,2,0,True,parking,340000
+Dakar,Plateau,Maison,110.3,4,2,False,climatisation|groupe_electrogene,980000
+Thiès,Centre,Appartement,59.6,2,0,False,,190000
+Saint-Louis,Centre,Maison,37.3,2,0,False,,200000
+Saint-Louis,Centre,Appartement,93.6,5,3,False,groupe_electrogene,275000
+Dakar,Parcelles Assainies,Maison,76.1,3,2,False,gardiennage,380000
+Saly,Centre,Appartement,61.2,3,1,True,,340000
+Dakar,Mermoz,Maison,171.9,7,6,False,piscine|groupe_electrogene,1150000
+Dakar,Parcelles Assainies,Appartement,112.2,3,2,False,climatisation|parking|gardiennage,445000
+Thiès,Centre,Appartement,105.9,3,1,True,climatisation|piscine,470000
+Dakar,Plateau,Maison,113.5,3,2,True,,1150000
+Mbour,Non renseigne,Appartement,110.6,3,1,False,,325000
+Mbour,Centre,Appartement,78.2,3,2,False,climatisation,315000
+Dakar,Plateau,Appartement,59.9,3,2,False,parking|piscine|groupe_electrogene,870000
+Saly,Centre,Appartement,94.6,4,3,False,,270000
+Dakar,Yoff,Appartement,77.4,3,1,False,piscine,590000
+Dakar,Mermoz,Villa,26.2,1,0,False,climatisation,825000
+Dakar,Parcelles Assainies,Appartement,48.6,1,0,False,groupe_electrogene,305000
+Saly,Centre,Studio,72.2,3,2,False,parking|groupe_electrogene,320000
+Dakar,Parcelles Assainies,Villa,139.5,5,4,True,,970000
+Dakar,Parcelles Assainies,Appartement,94.9,4,3,True,,640000
+Dakar,Yoff,Maison,54.0,4,3,False,gardiennage|piscine,640000
+Saly,Centre,Studio,46.1,3,1,True,,300000
+Mbour,Centre,Maison,154.5,6,5,False,parking|gardiennage|piscine,670000
+Saint-Louis,Centre,Appartement,80.1,2,0,False,parking,255000
+Mbour,Centre,Appartement,18.0,1,0,False,climatisation,175000
+Mbour,Centre,Appartement,82.9,3,1,False,gardiennage,285000
+Dakar,Yoff,Maison,124.6,4,2,False,parking,685000
+Dakar,Plateau,Villa,45.3,2,1,True,climatisation,1105000
+Saint-Louis,Centre,Villa,91.1,4,3,False,gardiennage,525000
+Thiès,Centre,Appartement,95.7,3,1,True,climatisation|parking|gardiennage|piscine,415000
+Dakar,Yoff,Maison,46.9,3,2,False,piscine,670000
+Dakar,Yoff,Appartement,161.6,6,4,True,,940000
+Saint-Louis,Centre,Villa,96.5,2,0,True,groupe_electrogene,560000
+Dakar,Parcelles Assainies,Appartement,72.0,3,1,True,,470000
+Saly,Centre,Villa,80.4,3,1,False,parking,375000
+Dakar,Parcelles Assainies,Studio,41.7,2,0,True,,335000
+Dakar,Mermoz,Appartement,40.7,1,0,False,parking,505000
+Mbour,Centre,Appartement,68.4,3,2,False,groupe_electrogene,225000
+Dakar,Parcelles Assainies,Studio,70.8,3,1,False,gardiennage,275000
+Dakar,Plateau,Appartement,77.6,2,1,False,climatisation,895000
+Thiès,Centre,Maison,168.7,5,4,True,gardiennage,630000
+Mbour,Centre,Villa,121.2,5,3,False,,415000
+Dakar,Mermoz,Maison,29.0,2,0,False,climatisation|gardiennage|groupe_electrogene,580000
+Dakar,Parcelles Assainies,Appartement,152.8,6,4,False,groupe_electrogene,615000
+Saint-Louis,Centre,Appartement,68.1,4,3,False,climatisation,215000
+Saly,Centre,Appartement,127.1,5,4,False,,410000
+Dakar,Mermoz,Villa,71.1,3,1,False,parking,740000
+Dakar,Mermoz,Appartement,93.3,3,2,True,piscine,1015000
+Dakar,Yoff,Appartement,43.6,3,1,False,groupe_electrogene,355000
+Dakar,Almadies,Appartement,104.1,4,3,True,groupe_electrogene,890000
+Dakar,Plateau,Villa,134.5,4,2,False,gardiennage,1540000
+Thiès,Centre,Appartement,32.6,1,0,False,gardiennage,170000
+Dakar,Almadies,Studio,135.5,5,4,True,,1370000
+Dakar,Yoff,Maison,59.8,1,0,True,climatisation,630000
+Saint-Louis,Centre,Studio,195.6,8,6,False,,455000
+Thiès,Centre,Villa,128.3,4,2,False,parking,590000
+Dakar,Parcelles Assainies,Studio,117.3,4,2,False,climatisation|piscine,550000
+Mbour,Centre,Villa,80.7,2,1,False,piscine,545000
+Saint-Louis,Centre,Appartement,273.1,10,8,False,gardiennage|groupe_electrogene,715000
+Saint-Louis,Centre,Studio,68.4,2,1,False,groupe_electrogene,145000
+Dakar,Almadies,Maison,49.2,2,0,True,piscine,1025000
+Dakar,Parcelles Assainies,Maison,61.0,4,3,False,climatisation|parking|piscine,515000
+Saly,Centre,Villa,146.6,6,5,False,climatisation,705000
+Dakar,Yoff,Villa,92.4,4,3,False,,805000
+Dakar,Mermoz,Maison,85.4,3,1,False,parking,790000
+Dakar,Almadies,Maison,68.9,3,1,True,gardiennage,1140000
+Thiès,Centre,Appartement,83.1,4,3,True,parking|gardiennage,380000
+Saly,Centre,Appartement,66.3,2,0,True,,335000
+Dakar,Yoff,Appartement,122.8,4,2,True,parking|gardiennage|groupe_electrogene,875000
+Saly,Centre,Appartement,76.7,1,0,False,groupe_electrogene,265000
+Dakar,Yoff,Appartement,61.6,3,1,True,,570000
+Thiès,Centre,Appartement,140.5,7,6,False,parking,410000
+Thiès,Centre,Studio,50.1,2,1,False,,175000
+Dakar,Parcelles Assainies,Appartement,93.1,2,0,False,climatisation|groupe_electrogene,500000
+Dakar,Mermoz,Villa,26.1,1,0,False,parking,745000
+Dakar,Non renseigne,Maison,38.7,1,0,False,groupe_electrogene,395000
+Saly,Centre,Appartement,72.3,2,1,False,gardiennage,330000
+Thiès,Centre,Appartement,65.7,3,2,False,,215000
+Saly,Centre,Appartement,65.6,3,1,False,groupe_electrogene,225000
+Mbour,Centre,Villa,128.9,4,2,False,,445000
+Dakar,Yoff,Appartement,132.7,4,2,False,groupe_electrogene,670000
+Saint-Louis,Centre,Maison,102.5,4,2,False,parking|groupe_electrogene,310000
+Dakar,Parcelles Assainies,Villa,48.6,1,0,False,gardiennage,470000
+Dakar,Yoff,Villa,82.8,2,0,False,piscine,840000
+Mbour,Centre,Appartement,209.4,7,6,False,,490000
+Mbour,Centre,Appartement,259.6,10,9,False,,650000
+Dakar,Yoff,Appartement,141.2,5,3,False,climatisation|parking|gardiennage,775000
+Dakar,Almadies,Appartement,49.7,1,0,False,parking|groupe_electrogene,655000
+Thiès,Centre,Appartement,83.2,4,2,False,piscine|groupe_electrogene,405000
+Mbour,Centre,Maison,99.0,1,0,False,,225000
+Thiès,Centre,Villa,91.5,3,1,False,,400000
+Dakar,Yoff,Maison,148.6,5,4,False,,775000
+Dakar,Yoff,Maison,126.1,5,4,False,climatisation|parking|gardiennage|piscine,715000
+Dakar,Parcelles Assainies,Appartement,48.2,2,1,False,gardiennage,280000
+Thiès,Centre,Studio,62.4,3,2,False,climatisation|gardiennage,230000
+Mbour,Centre,Maison,140.9,4,2,False,parking,415000
+Dakar,Mermoz,Studio,171.5,7,5,False,gardiennage|groupe_electrogene,875000
+Dakar,Yoff,Villa,99.7,4,3,False,climatisation,860000
+Dakar,Yoff,Appartement,182.1,5,3,True,,950000
+Saint-Louis,Centre,Appartement,93.9,5,4,True,,345000
+Mbour,Centre,Appartement,53.1,1,0,False,piscine,210000
+Dakar,Yoff,Appartement,120.4,5,3,False,climatisation|parking|gardiennage,695000
+Dakar,Parcelles Assainies,Villa,316.8,12,11,False,parking|gardiennage,1485000
+Thiès,Centre,Appartement,41.9,2,0,True,gardiennage|groupe_electrogene,245000
+Dakar,Yoff,Studio,178.7,6,5,False,parking|piscine,1305000
+Mbour,Centre,Maison,117.0,5,4,False,climatisation|gardiennage,355000
+Dakar,Parcelles Assainies,Appartement,60.4,1,0,False,piscine,410000
+Dakar,Parcelles Assainies,Appartement,26.5,1,0,False,piscine,335000
+Saly,Centre,Maison,19.9,1,0,False,gardiennage,195000
+Dakar,Parcelles Assainies,Maison,65.5,2,1,False,,320000
+Dakar,Yoff,Appartement,107.5,4,3,False,parking|piscine|groupe_electrogene,665000
+Dakar,Parcelles Assainies,Appartement,135.8,6,5,True,climatisation,545000
+Dakar,Mermoz,Studio,151.5,5,3,False,,1150000
+Dakar,Plateau,Appartement,102.7,4,2,False,parking,935000
+Dakar,Parcelles Assainies,Villa,94.7,3,2,False,climatisation|gardiennage,620000
+Dakar,Yoff,Appartement,73.6,2,1,False,climatisation|groupe_electrogene,450000
+Dakar,Yoff,Appartement,108.8,4,3,False,climatisation,615000
+Thiès,Centre,Maison,60.9,2,1,False,parking,245000
+Thiès,Centre,Maison,43.3,1,0,False,,170000
+Dakar,Almadies,Maison,91.7,4,3,False,,945000
+Dakar,Parcelles Assainies,Appartement,130.6,5,4,False,parking|gardiennage,690000
+Dakar,Mermoz,Villa,37.9,1,0,False,parking|piscine,965000
+Mbour,Centre,Maison,65.6,1,0,False,gardiennage|groupe_electrogene,360000
+Mbour,Centre,Appartement,89.9,4,3,False,piscine,340000
+Dakar,Parcelles Assainies,Appartement,88.9,3,2,False,,395000
+Dakar,Yoff,Appartement,115.4,4,2,True,parking|piscine,1050000
+Dakar,Yoff,Maison,206.4,8,7,False,,1160000
+Dakar,Parcelles Assainies,Appartement,20.1,1,0,False,piscine|groupe_electrogene,385000
+Thiès,Centre,Maison,211.0,6,4,False,climatisation|parking,550000
+Dakar,Yoff,Appartement,201.8,9,7,False,,1075000
+Dakar,Mermoz,Villa,136.9,5,3,False,piscine,1410000
+Dakar,Parcelles Assainies,Appartement,98.7,3,2,False,parking|groupe_electrogene,610000
+Dakar,Mermoz,Villa,61.6,1,0,False,,945000
+Dakar,Plateau,Appartement,136.1,4,3,False,groupe_electrogene,1460000
+Mbour,Centre,Appartement,101.3,3,1,True,piscine,425000
+Dakar,Mermoz,Studio,74.4,3,1,False,gardiennage|groupe_electrogene,605000
+Saly,Centre,Maison,134.3,4,3,False,parking|gardiennage|piscine|groupe_electrogene,440000
+Dakar,Almadies,Studio,146.0,6,4,True,parking|piscine,1545000
+Mbour,Centre,Appartement,18.0,1,0,False,groupe_electrogene,165000
+Saly,Centre,Maison,170.8,5,4,False,groupe_electrogene,460000
+Saly,Centre,Studio,57.8,2,0,True,climatisation|parking|gardiennage,415000
+Mbour,Centre,Maison,159.9,4,3,False,groupe_electrogene,475000
+Saint-Louis,Centre,Appartement,75.2,3,2,False,,260000
+Thiès,Centre,Maison,98.9,3,2,False,gardiennage|piscine,450000
+Saint-Louis,Centre,Maison,108.9,5,3,False,gardiennage|piscine,365000
+Dakar,Yoff,Villa,153.4,4,3,True,piscine,1790000
+Dakar,Plateau,Appartement,127.4,5,4,False,climatisation|parking|gardiennage,1095000
+Dakar,Yoff,Appartement,73.8,3,1,False,climatisation|gardiennage|groupe_electrogene,585000
+Mbour,Centre,Studio,22.0,2,1,True,climatisation|gardiennage|groupe_electrogene,245000
+Dakar,Parcelles Assainies,Maison,114.7,4,3,False,parking,555000
+Dakar,Plateau,Studio,96.7,4,2,True,parking,1285000
+Thiès,Centre,Appartement,41.6,1,0,False,gardiennage,180000
+Dakar,Almadies,Appartement,102.7,4,2,False,,1095000
+Dakar,Parcelles Assainies,Studio,89.3,3,2,False,parking,445000
+Dakar,Yoff,Appartement,170.0,5,3,False,piscine,895000
+Dakar,Mermoz,Appartement,218.3,7,6,False,groupe_electrogene,1235000
+Dakar,Mermoz,Maison,144.2,5,4,False,gardiennage|piscine,1245000
+Dakar,Almadies,Studio,86.6,2,1,False,gardiennage,870000
+Dakar,Parcelles Assainies,Villa,93.6,4,3,False,,615000
+Dakar,Mermoz,Appartement,56.7,1,0,False,piscine,520000
+Dakar,Non renseigne,Appartement,62.8,1,0,True,parking,595000
+Thiès,Centre,Villa,83.9,4,3,True,gardiennage,710000
+Dakar,Yoff,Appartement,79.3,4,3,True,climatisation|gardiennage|piscine,1165000
+Saly,Centre,Appartement,40.2,1,0,True,climatisation|piscine,330000
+Saly,Centre,Appartement,170.9,6,4,True,parking|groupe_electrogene,605000
+Dakar,Mermoz,Maison,182.9,7,6,False,climatisation,1545000
+Dakar,Non renseigne,Villa,168.1,6,4,False,,915000
+Dakar,Plateau,Studio,186.0,7,5,False,gardiennage,940000
+Mbour,Centre,Maison,249.9,10,8,False,parking|gardiennage|groupe_electrogene,705000
+Thiès,Centre,Appartement,57.3,1,0,False,parking,200000
+Mbour,Centre,Appartement,244.5,9,8,False,climatisation|gardiennage,610000
+Dakar,Parcelles Assainies,Appartement,73.5,3,2,False,climatisation|groupe_electrogene,390000
+Thiès,Centre,Appartement,123.5,4,3,False,parking,335000
+Dakar,Parcelles Assainies,Appartement,34.3,1,0,False,climatisation,255000
+Saint-Louis,Non renseigne,Appartement,68.4,3,1,False,parking,195000
+Dakar,Yoff,Appartement,146.3,5,4,False,groupe_electrogene,720000
+Saint-Louis,Centre,Maison,126.6,4,2,False,piscine|groupe_electrogene,445000
+Mbour,Centre,Maison,72.7,3,1,False,,245000
+Dakar,Yoff,Appartement,93.6,3,2,False,groupe_electrogene,535000
+Thiès,Centre,Maison,64.4,2,0,False,piscine,340000
+Dakar,Mermoz,Studio,146.1,5,4,True,groupe_electrogene,1135000
+Saint-Louis,Centre,Studio,176.6,7,5,True,groupe_electrogene,400000
+Dakar,Parcelles Assainies,Studio,57.4,1,0,False,climatisation|parking,330000
+Saly,Centre,Appartement,88.6,4,2,True,parking,350000
+Dakar,Parcelles Assainies,Studio,39.2,1,0,False,,210000
+Saly,Centre,Appartement,101.1,5,4,True,groupe_electrogene,410000
+Mbour,Centre,Appartement,117.0,4,3,False,groupe_electrogene,290000
+Thiès,Centre,Appartement,105.5,4,3,True,climatisation|parking|gardiennage|groupe_electrogene,480000
+Saint-Louis,Centre,Appartement,112.3,6,5,False,climatisation|piscine,355000
+Mbour,Centre,Appartement,83.7,3,1,False,parking,225000
+Saly,Centre,Appartement,84.7,4,3,True,climatisation|piscine,465000
+Dakar,Almadies,Studio,82.6,3,2,True,climatisation,925000
+Thiès,Centre,Appartement,67.3,3,1,False,,250000
+Dakar,Parcelles Assainies,Appartement,71.9,3,2,False,climatisation|groupe_electrogene,425000
+Thiès,Centre,Appartement,114.3,5,4,False,piscine,445000
+Dakar,Parcelles Assainies,Appartement,171.0,6,4,False,climatisation|parking|piscine,750000
+Thiès,Centre,Appartement,51.7,1,0,False,piscine|groupe_electrogene,275000
+Thiès,Centre,Appartement,84.6,3,1,True,climatisation|groupe_electrogene,375000
+Dakar,Almadies,Appartement,45.4,2,1,False,gardiennage|groupe_electrogene,815000
+Dakar,Yoff,Studio,67.9,2,0,False,,485000
+Saint-Louis,Centre,Villa,74.3,3,2,True,gardiennage,455000
+Mbour,Centre,Maison,97.5,5,4,False,parking,300000
+Dakar,Almadies,Maison,96.1,3,2,False,climatisation,1225000
+Thiès,Centre,Studio,88.2,3,1,True,piscine|groupe_electrogene,500000
+Saly,Centre,Villa,109.6,3,2,True,,710000
+Dakar,Plateau,Maison,54.6,4,3,True,gardiennage,710000
+Dakar,Parcelles Assainies,Villa,97.9,4,3,True,climatisation|gardiennage,790000
+Dakar,Parcelles Assainies,Villa,128.4,5,4,True,,955000
+Thiès,Centre,Studio,54.2,1,0,False,piscine,225000
+Dakar,Yoff,Appartement,30.1,1,0,True,,315000
+Saint-Louis,Centre,Appartement,145.5,6,5,False,gardiennage|piscine,575000
+Thiès,Centre,Appartement,46.2,1,0,False,climatisation,145000
+Dakar,Mermoz,Appartement,66.1,3,1,False,climatisation|groupe_electrogene,735000
+Mbour,Centre,Maison,126.5,6,4,False,piscine,495000
+Saint-Louis,Centre,Appartement,52.6,1,0,True,,225000
+Dakar,Parcelles Assainies,Maison,140.5,4,2,True,gardiennage|groupe_electrogene,765000
+Dakar,Yoff,Maison,60.8,1,0,True,,555000
+Dakar,Parcelles Assainies,Studio,56.7,3,2,False,,355000
+Dakar,Almadies,Appartement,45.5,2,0,False,parking,630000
+Dakar,Yoff,Appartement,61.1,2,1,False,climatisation|parking,420000
+Saly,Centre,Studio,118.1,4,2,False,piscine,420000
+Dakar,Parcelles Assainies,Studio,66.1,2,1,False,,280000
+Dakar,Yoff,Villa,145.8,6,5,False,,1005000
+Saint-Louis,Centre,Studio,90.1,3,1,False,piscine,250000
+Thiès,Centre,Villa,94.2,3,2,True,climatisation,570000
+Saly,Centre,Appartement,55.7,2,1,False,climatisation|parking,245000
+Saint-Louis,Centre,Appartement,156.5,5,3,False,gardiennage,395000
+Dakar,Parcelles Assainies,Appartement,128.9,4,3,True,groupe_electrogene,660000
+Dakar,Parcelles Assainies,Maison,127.1,5,4,False,,640000
+Saly,Centre,Villa,81.1,4,2,False,groupe_electrogene,500000
+Saint-Louis,Centre,Appartement,42.2,3,1,True,parking|gardiennage,245000
+Saly,Centre,Maison,96.8,4,3,False,gardiennage|piscine,445000
+Dakar,Parcelles Assainies,Appartement,115.6,5,4,False,parking|gardiennage|groupe_electrogene,435000
+Mbour,Centre,Appartement,116.1,4,2,True,groupe_electrogene,375000
+Thiès,Centre,Appartement,108.4,3,2,True,gardiennage,520000
+Dakar,Mermoz,Appartement,106.1,4,3,False,,710000
+Thiès,Centre,Villa,60.7,2,1,True,groupe_electrogene,305000
+Thiès,Centre,Appartement,62.3,1,0,False,climatisation|parking,225000
+Dakar,Mermoz,Studio,45.8,1,0,False,piscine,565000
+Dakar,Parcelles Assainies,Maison,146.6,5,4,False,parking,605000
+Mbour,Centre,Appartement,213.3,7,6,False,climatisation,525000
+Dakar,Parcelles Assainies,Appartement,313.8,12,11,False,parking|groupe_electrogene,1055000
+Dakar,Parcelles Assainies,Studio,100.3,4,2,False,climatisation,410000
+Dakar,Almadies,Appartement,106.2,5,4,False,,920000
+Dakar,Parcelles Assainies,Villa,82.9,3,2,True,,935000
+Saly,Centre,Appartement,99.5,4,3,False,climatisation|parking,305000
+Saint-Louis,Centre,Maison,52.5,1,0,False,climatisation|parking,240000
+Dakar,Yoff,Studio,82.0,3,1,False,parking|gardiennage,635000
+Saly,Centre,Appartement,56.9,2,0,False,gardiennage,235000
+Mbour,Centre,Appartement,76.4,2,1,True,gardiennage,320000
+Dakar,Plateau,Villa,59.7,2,1,False,parking,1030000
+Mbour,Centre,Appartement,115.6,4,3,True,piscine,530000
+Dakar,Parcelles Assainies,Appartement,122.9,5,4,False,,465000
+Saly,Centre,Appartement,104.6,4,2,False,parking,415000
+Thiès,Centre,Appartement,62.5,2,0,False,,215000
+Thiès,Centre,Studio,43.9,2,1,False,gardiennage,155000
+Dakar,Yoff,Studio,123.6,4,2,True,,700000
+Mbour,Non renseigne,Appartement,89.8,1,0,False,gardiennage,250000
+Dakar,Yoff,Studio,29.3,1,0,False,groupe_electrogene,285000
+Dakar,Almadies,Appartement,96.4,4,2,False,,750000
+Dakar,Yoff,Appartement,106.6,2,1,False,climatisation,555000
+Saint-Louis,Centre,Maison,35.5,1,0,True,parking,220000
+Dakar,Mermoz,Villa,116.6,5,4,False,climatisation|gardiennage,1435000
+Saly,Centre,Appartement,38.9,1,0,False,,215000
+Thiès,Non renseigne,Appartement,58.8,2,0,False,groupe_electrogene,280000
+Dakar,Yoff,Maison,39.1,1,0,False,climatisation,440000
+Dakar,Parcelles Assainies,Studio,55.4,3,1,False,,310000
+Dakar,Parcelles Assainies,Appartement,44.1,2,1,False,,235000
+Thiès,Centre,Appartement,146.2,5,4,True,piscine,570000
+Mbour,Centre,Studio,78.8,4,3,False,groupe_electrogene,205000
+Dakar,Parcelles Assainies,Appartement,70.1,3,1,False,groupe_electrogene,320000
+Mbour,Centre,Appartement,153.0,5,3,True,climatisation|parking,545000
+Dakar,Yoff,Appartement,149.1,5,4,True,gardiennage,845000
+Mbour,Centre,Appartement,73.2,3,1,False,,295000
+Saly,Centre,Appartement,103.6,3,1,True,groupe_electrogene,465000
+Saint-Louis,Centre,Studio,65.1,1,0,False,parking,170000
+Saint-Louis,Centre,Maison,85.2,3,2,True,gardiennage|groupe_electrogene,380000
+Mbour,Centre,Maison,48.8,1,0,False,,205000
+Dakar,Yoff,Villa,111.2,5,4,True,climatisation,1265000
+Dakar,Yoff,Appartement,156.0,6,5,False,climatisation|gardiennage|piscine,1140000
+Dakar,Parcelles Assainies,Appartement,142.5,4,3,False,groupe_electrogene,480000
+Dakar,Parcelles Assainies,Villa,92.0,3,1,False,,625000
+Saint-Louis,Centre,Appartement,27.5,1,0,True,gardiennage,180000
+Thiès,Centre,Studio,63.5,1,0,False,piscine,250000
+Mbour,Centre,Studio,85.1,4,2,False,parking,290000
+Dakar,Parcelles Assainies,Appartement,40.8,3,1,False,parking|piscine,385000
+Saint-Louis,Centre,Appartement,36.7,2,0,False,,165000
+Dakar,Plateau,Appartement,177.2,6,4,False,gardiennage,1095000
+Dakar,Parcelles Assainies,Appartement,134.3,4,2,False,,590000
+Saint-Louis,Centre,Appartement,115.5,3,1,False,gardiennage|piscine|groupe_electrogene,425000
+Saly,Centre,Appartement,126.7,6,4,False,piscine,555000
+Thiès,Centre,Studio,45.0,1,0,True,piscine,240000
+Dakar,Almadies,Villa,54.3,4,3,False,,1050000
+Thiès,Centre,Studio,100.4,5,3,False,groupe_electrogene,320000
+Dakar,Parcelles Assainies,Appartement,104.4,2,1,True,groupe_electrogene,610000
+Mbour,Centre,Appartement,39.4,1,0,False,,195000
+Saint-Louis,Centre,Appartement,96.8,3,1,False,gardiennage,255000
+Dakar,Almadies,Appartement,86.0,3,1,False,gardiennage,905000
+Dakar,Mermoz,Villa,140.3,5,3,False,parking|groupe_electrogene,1565000
+Dakar,Yoff,Appartement,104.7,6,5,False,,590000
+Saly,Centre,Appartement,187.3,6,5,False,,475000
+Dakar,Plateau,Studio,73.4,3,1,False,climatisation|piscine|groupe_electrogene,715000
+Saint-Louis,Centre,Appartement,46.7,2,0,False,gardiennage,220000
+Thiès,Centre,Appartement,184.8,7,6,False,,380000
+Thiès,Centre,Appartement,107.4,4,2,False,,285000
+Dakar,Parcelles Assainies,Maison,86.2,2,1,True,parking,625000
+Saly,Centre,Studio,55.5,2,0,False,groupe_electrogene,290000
+Dakar,Mermoz,Appartement,73.8,3,1,False,groupe_electrogene,620000
+Thiès,Centre,Villa,71.8,3,1,False,climatisation,410000
+Saint-Louis,Non renseigne,Studio,45.6,2,1,True,,180000
+Thiès,Centre,Studio,22.3,2,1,True,climatisation,170000
+Saly,Centre,Appartement,70.9,3,1,False,climatisation,300000
+Dakar,Parcelles Assainies,Appartement,128.3,5,3,True,piscine,920000
+Dakar,Plateau,Studio,162.6,5,4,False,,890000
+Dakar,Parcelles Assainies,Appartement,143.0,5,4,False,piscine,700000
+Dakar,Plateau,Maison,147.1,5,3,False,,1005000
+Dakar,Parcelles Assainies,Studio,48.7,2,1,True,climatisation|parking,360000
+Dakar,Yoff,Appartement,101.4,3,1,False,,605000
+Dakar,Yoff,Studio,116.0,3,2,False,piscine,580000
+Dakar,Plateau,Villa,119.7,3,2,False,parking|gardiennage,1140000
+Dakar,Parcelles Assainies,Studio,85.2,2,1,False,,350000
+Thiès,Centre,Appartement,95.1,3,1,False,,275000
+Thiès,Centre,Studio,220.8,7,5,False,parking,390000
+Dakar,Parcelles Assainies,Maison,140.9,4,3,False,,525000
+Dakar,Mermoz,Studio,113.9,4,3,False,groupe_electrogene,795000
+Dakar,Yoff,Studio,124.5,3,1,False,,610000
+Thiès,Centre,Studio,69.1,3,2,False,,235000
+Dakar,Yoff,Appartement,121.2,5,3,False,,785000
+Dakar,Parcelles Assainies,Appartement,94.5,3,1,False,,410000
+Dakar,Yoff,Appartement,133.9,4,3,False,gardiennage,665000
+Dakar,Plateau,Maison,60.7,3,2,False,parking|groupe_electrogene,710000
+Dakar,Yoff,Maison,128.6,4,2,True,,895000
+Thiès,Centre,Maison,74.4,2,1,True,piscine,365000
+Thiès,Centre,Appartement,128.9,6,4,False,gardiennage,365000
+Saint-Louis,Centre,Studio,101.7,4,3,False,gardiennage,325000
+Thiès,Centre,Villa,91.0,4,2,False,,305000
+Thiès,Centre,Appartement,76.5,3,2,False,gardiennage|groupe_electrogene,250000
+Dakar,Mermoz,Studio,86.4,2,0,False,gardiennage,515000
+Saint-Louis,Centre,Maison,71.0,4,2,False,climatisation,270000
+Dakar,Yoff,Maison,75.7,3,2,False,climatisation|groupe_electrogene,495000
+Dakar,Yoff,Appartement,112.4,5,3,True,groupe_electrogene,685000
+Thiès,Centre,Studio,32.4,1,0,False,piscine,185000
+Dakar,Mermoz,Villa,128.0,5,3,True,climatisation,1790000
+Dakar,Yoff,Studio,129.1,4,3,False,climatisation|groupe_electrogene,630000
+Saint-Louis,Centre,Villa,77.7,3,2,False,parking|gardiennage|piscine,540000
+Mbour,Centre,Villa,96.4,3,2,False,climatisation|piscine|groupe_electrogene,590000
+Saly,Centre,Appartement,52.2,3,1,False,parking|piscine,360000
+Dakar,Parcelles Assainies,Maison,108.8,3,1,False,gardiennage,470000
+Dakar,Almadies,Appartement,55.9,2,1,True,,985000
+Mbour,Centre,Villa,18.0,2,1,True,groupe_electrogene,270000
+Dakar,Parcelles Assainies,Appartement,159.5,5,3,False,climatisation,705000
+Mbour,Centre,Appartement,49.0,2,0,False,parking,165000
+Dakar,Almadies,Studio,85.5,2,1,False,climatisation|parking|gardiennage|groupe_electrogene,875000
+Dakar,Mermoz,Appartement,98.3,4,3,True,climatisation|parking,975000
+Dakar,Yoff,Studio,112.3,3,1,False,gardiennage|piscine|groupe_electrogene,690000
+Mbour,Centre,Appartement,89.4,3,1,False,,220000
+Dakar,Yoff,Villa,102.7,4,2,False,climatisation,1205000
+Dakar,Almadies,Villa,76.8,2,0,True,parking,1830000
+Dakar,Parcelles Assainies,Appartement,36.1,2,1,False,parking|piscine,350000
+Dakar,Parcelles Assainies,Studio,87.6,4,3,True,,395000
+Dakar,Parcelles Assainies,Appartement,120.0,5,4,False,parking|piscine,720000
+Saint-Louis,Centre,Maison,50.7,2,1,True,,245000
+Dakar,Almadies,Maison,98.8,6,5,False,climatisation|piscine|groupe_electrogene,1400000
+Mbour,Centre,Studio,205.6,8,7,False,gardiennage|piscine,535000
+Mbour,Centre,Appartement,84.7,3,2,False,climatisation|piscine,360000
+Dakar,Almadies,Appartement,86.9,2,0,False,,1010000
+Dakar,Parcelles Assainies,Maison,34.3,1,0,False,parking,345000
+Thiès,Centre,Maison,47.3,3,1,False,,220000
+Dakar,Parcelles Assainies,Maison,56.3,3,2,False,groupe_electrogene,420000
+Dakar,Yoff,Appartement,117.6,5,4,True,gardiennage|piscine,1180000
+Saly,Centre,Appartement,52.7,3,1,False,climatisation,270000
+Saly,Centre,Studio,27.2,1,0,False,parking|groupe_electrogene,185000
+Saint-Louis,Centre,Appartement,107.6,4,2,False,,350000
+Dakar,Almadies,Appartement,59.1,1,0,False,piscine,910000
+Thiès,Centre,Villa,35.1,1,0,False,parking,245000
+Saint-Louis,Centre,Appartement,124.8,5,4,True,gardiennage|groupe_electrogene,435000
+Dakar,Yoff,Studio,72.2,3,1,False,climatisation|piscine|groupe_electrogene,700000
+Thiès,Centre,Appartement,112.7,5,4,False,,350000
+Dakar,Parcelles Assainies,Studio,34.4,2,1,False,gardiennage|groupe_electrogene,240000
+Dakar,Almadies,Studio,20.8,1,0,False,climatisation,500000
+Dakar,Mermoz,Villa,94.1,3,1,True,groupe_electrogene,1230000
+Dakar,Mermoz,Appartement,46.3,2,0,True,,510000
+Dakar,Parcelles Assainies,Maison,93.4,2,0,False,gardiennage,420000
+Mbour,Centre,Studio,94.4,2,0,False,climatisation|parking,225000
+Saly,Centre,Appartement,88.4,4,2,False,parking|gardiennage|piscine,410000
+Thiès,Centre,Appartement,146.5,5,3,False,,345000
+Mbour,Centre,Appartement,291.1,11,10,False,parking|piscine|groupe_electrogene,900000
+Saly,Centre,Villa,106.7,5,3,False,parking|gardiennage|groupe_electrogene,610000
+Dakar,Parcelles Assainies,Maison,205.5,7,6,True,,930000
+Dakar,Parcelles Assainies,Maison,32.9,2,1,False,piscine,350000
+Dakar,Parcelles Assainies,Studio,73.2,2,1,False,,215000
+Dakar,Almadies,Maison,41.3,1,0,False,parking|piscine,860000
+Saint-Louis,Centre,Appartement,61.3,2,0,True,,275000
+Dakar,Yoff,Appartement,75.6,2,0,True,,635000
+Dakar,Almadies,Maison,214.1,7,5,True,climatisation|parking|gardiennage,1965000
+Dakar,Yoff,Appartement,91.0,5,3,False,parking,685000
+Dakar,Parcelles Assainies,Villa,149.2,4,3,True,gardiennage|piscine|groupe_electrogene,1310000
+Saly,Centre,Studio,70.0,3,1,False,gardiennage,260000
+Dakar,Yoff,Appartement,65.5,2,0,True,,450000
+Dakar,Almadies,Maison,33.5,2,1,True,,645000
+Dakar,Mermoz,Appartement,210.7,8,6,False,,1300000
+Dakar,Almadies,Villa,173.7,7,5,True,parking|groupe_electrogene,2875000
+Thiès,Non renseigne,Villa,99.3,3,1,False,piscine|groupe_electrogene,465000
+Dakar,Almadies,Villa,77.9,2,0,False,gardiennage,1185000
+Dakar,Almadies,Appartement,92.8,4,2,True,,1335000
+Dakar,Mermoz,Appartement,40.3,3,1,True,parking|groupe_electrogene,760000
+Mbour,Centre,Appartement,112.6,4,3,False,parking,275000
+Thiès,Centre,Appartement,166.6,5,3,False,gardiennage|piscine,415000
+Thiès,Centre,Appartement,170.8,6,5,False,,350000
+Thiès,Centre,Appartement,34.4,3,2,False,gardiennage|groupe_electrogene,225000
+Saint-Louis,Centre,Villa,148.6,5,3,False,,400000
+Dakar,Parcelles Assainies,Appartement,40.5,3,2,False,parking|gardiennage|piscine,500000
+Dakar,Parcelles Assainies,Appartement,21.8,1,0,False,,245000
+Dakar,Almadies,Studio,151.3,5,4,False,parking|groupe_electrogene,1405000
+Dakar,Yoff,Maison,67.0,3,2,False,parking|gardiennage|piscine,690000
+Mbour,Centre,Studio,140.8,5,4,False,gardiennage|groupe_electrogene,350000
+Dakar,Mermoz,Maison,134.6,4,3,False,,885000
+Saint-Louis,Centre,Villa,126.2,4,2,False,climatisation,520000
+Mbour,Centre,Maison,92.2,4,3,False,parking,275000
+Dakar,Parcelles Assainies,Maison,43.2,2,0,False,gardiennage,295000
+Saly,Centre,Maison,75.7,4,2,True,climatisation,475000
+Thiès,Centre,Appartement,172.2,8,7,False,piscine,595000
+Mbour,Centre,Appartement,142.6,5,3,False,parking,390000
+Dakar,Plateau,Appartement,77.8,3,2,False,,825000
+Dakar,Yoff,Appartement,77.3,4,3,False,piscine|groupe_electrogene,550000
+Dakar,Parcelles Assainies,Studio,120.6,5,3,False,,385000
+Dakar,Parcelles Assainies,Appartement,95.6,3,1,False,parking,380000
+Dakar,Parcelles Assainies,Appartement,79.9,2,0,False,climatisation,355000
+Saly,Centre,Appartement,115.5,5,4,True,groupe_electrogene,470000
+Thiès,Centre,Studio,113.6,4,3,False,climatisation|piscine,400000
+Dakar,Yoff,Appartement,62.3,2,0,False,climatisation|parking,430000
+Dakar,Parcelles Assainies,Maison,105.4,5,3,False,gardiennage,595000
+Dakar,Almadies,Studio,110.2,5,3,True,climatisation|groupe_electrogene,1440000
+Dakar,Plateau,Appartement,88.6,4,3,False,parking,695000
+Saly,Non renseigne,Studio,58.6,1,0,False,,210000
+Dakar,Yoff,Appartement,74.4,3,2,False,gardiennage,720000
+Dakar,Almadies,Appartement,52.1,2,1,True,,705000
+Thiès,Centre,Maison,106.9,3,2,False,groupe_electrogene,330000
+Dakar,Parcelles Assainies,Villa,34.5,1,0,True,climatisation|piscine,650000
+Dakar,Yoff,Appartement,181.0,6,4,False,piscine|groupe_electrogene,1235000
+Saint-Louis,Centre,Maison,162.8,6,5,False,gardiennage,410000
+Thiès,Centre,Appartement,111.5,5,3,False,parking,350000
+Saly,Centre,Maison,138.5,7,6,False,piscine,640000
+Thiès,Centre,Maison,133.9,4,2,False,gardiennage,395000
+Dakar,Parcelles Assainies,Maison,96.4,4,3,False,,395000
+Saint-Louis,Centre,Maison,81.1,3,2,True,,365000
+Saly,Centre,Appartement,76.3,3,2,True,piscine,505000
+Saint-Louis,Centre,Maison,184.3,7,5,False,,395000
+Saly,Centre,Maison,57.5,2,1,False,climatisation|gardiennage|piscine|groupe_electrogene,495000
+Saint-Louis,Centre,Maison,58.1,3,1,False,,225000
+Mbour,Non renseigne,Appartement,144.6,6,4,False,climatisation,345000
+Dakar,Yoff,Appartement,137.8,4,3,False,gardiennage|piscine|groupe_electrogene,835000
+Saint-Louis,Centre,Appartement,78.6,3,1,False,,250000
+Dakar,Non renseigne,Appartement,117.5,5,4,False,,750000
+Thiès,Centre,Appartement,125.3,5,4,True,piscine|groupe_electrogene,455000
+Thiès,Centre,Appartement,42.0,2,1,True,gardiennage,205000
+Saly,Centre,Studio,168.0,6,4,True,climatisation|parking,595000
+Saly,Centre,Appartement,125.3,5,3,False,groupe_electrogene,420000
+Dakar,Almadies,Studio,112.5,4,3,False,parking|groupe_electrogene,1010000
+Saint-Louis,Centre,Maison,125.7,3,2,False,piscine,365000
+Saint-Louis,Centre,Studio,105.8,4,2,True,,305000
+Dakar,Yoff,Appartement,85.9,3,2,False,,565000
+Dakar,Parcelles Assainies,Maison,26.4,1,0,True,,325000
+Dakar,Parcelles Assainies,Maison,96.8,5,3,False,climatisation,460000
+Saint-Louis,Centre,Villa,39.7,2,1,True,gardiennage,350000
+Dakar,Parcelles Assainies,Maison,220.2,8,6,False,,1050000
+Saly,Centre,Maison,85.2,3,2,True,parking|piscine,515000
+Dakar,Yoff,Maison,218.3,8,6,False,gardiennage,1070000
+Saly,Centre,Studio,97.7,4,3,False,parking|piscine,410000
+Dakar,Parcelles Assainies,Appartement,65.2,2,0,False,gardiennage,360000
+Mbour,Centre,Maison,165.6,6,4,True,,685000
+Dakar,Mermoz,Maison,110.2,5,4,False,climatisation,825000
+Thiès,Centre,Villa,259.5,8,7,False,parking|gardiennage|groupe_electrogene,855000
+Mbour,Centre,Maison,64.3,2,0,False,,310000
+Saly,Centre,Appartement,169.0,6,4,False,climatisation|gardiennage,385000
+Mbour,Centre,Villa,173.5,6,5,False,gardiennage|groupe_electrogene,710000
+Dakar,Mermoz,Appartement,130.5,4,3,False,groupe_electrogene,860000
+Dakar,Almadies,Appartement,174.2,6,5,False,parking,1765000
+Dakar,Mermoz,Appartement,86.2,5,3,False,gardiennage,760000
+Dakar,Yoff,Appartement,57.3,2,0,True,gardiennage,550000
+Thiès,Centre,Appartement,68.4,3,2,False,,220000
+Saint-Louis,Centre,Appartement,94.2,5,4,True,climatisation|piscine|groupe_electrogene,450000
+Saint-Louis,Centre,Studio,133.8,4,3,False,,290000
+Mbour,Centre,Studio,59.5,4,3,False,climatisation,245000
+Saint-Louis,Centre,Appartement,76.4,3,1,False,gardiennage,270000
+Mbour,Non renseigne,Maison,62.2,4,2,False,gardiennage|groupe_electrogene,310000
+Dakar,Parcelles Assainies,Appartement,145.7,6,4,False,climatisation|gardiennage,650000
+Dakar,Parcelles Assainies,Villa,217.5,8,7,False,climatisation,1075000
+Thiès,Centre,Appartement,51.9,2,1,True,piscine|groupe_electrogene,395000
+Mbour,Centre,Maison,120.3,4,3,False,,350000
+Dakar,Plateau,Appartement,154.8,6,5,False,climatisation|piscine,1270000
+Dakar,Yoff,Maison,82.3,4,2,False,piscine,705000
+Thiès,Centre,Appartement,41.0,1,0,False,piscine,240000
+Dakar,Plateau,Studio,164.8,6,4,True,parking,1485000
+Dakar,Parcelles Assainies,Appartement,39.5,1,0,True,groupe_electrogene,280000
+Mbour,Centre,Villa,188.8,8,6,False,parking,770000
+Thiès,Centre,Maison,61.5,3,2,False,,240000
+Dakar,Parcelles Assainies,Studio,36.1,1,0,False,climatisation|gardiennage,300000
+Mbour,Centre,Studio,71.1,2,1,False,parking,275000
+Dakar,Almadies,Villa,90.4,4,2,False,gardiennage|groupe_electrogene,1525000
+Mbour,Centre,Appartement,100.3,5,3,False,climatisation|gardiennage|piscine,490000
+Dakar,Mermoz,Appartement,125.4,5,3,False,,990000
+Thiès,Centre,Appartement,105.0,3,1,False,,320000
+Dakar,Parcelles Assainies,Appartement,208.6,7,6,True,groupe_electrogene,950000
+Dakar,Mermoz,Maison,88.2,2,1,False,climatisation|gardiennage|piscine,700000
+Mbour,Centre,Villa,107.8,4,3,False,climatisation|parking,470000
+Dakar,Parcelles Assainies,Villa,103.3,5,4,False,,950000
+Dakar,Plateau,Maison,33.5,1,0,False,climatisation|gardiennage,540000
+Dakar,Almadies,Maison,46.5,1,0,False,,685000
+Saint-Louis,Centre,Studio,94.4,3,1,False,gardiennage|groupe_electrogene,270000
+Mbour,Non renseigne,Villa,114.5,4,3,False,groupe_electrogene,455000
+Saly,Centre,Appartement,25.7,1,0,True,,235000
+Dakar,Parcelles Assainies,Maison,213.4,8,7,False,,750000
+Dakar,Parcelles Assainies,Studio,119.2,5,3,False,gardiennage|piscine,550000
+Dakar,Almadies,Appartement,91.7,2,0,False,gardiennage,995000
+Thiès,Centre,Appartement,116.4,5,3,False,gardiennage|groupe_electrogene,360000
+Saly,Centre,Villa,69.0,2,1,True,climatisation|parking|gardiennage|groupe_electrogene,610000
+Saint-Louis,Centre,Villa,100.9,4,3,False,climatisation,475000
+Thiès,Centre,Villa,109.1,3,2,False,parking,470000
+Dakar,Mermoz,Studio,165.8,6,4,False,,875000
+Saly,Centre,Appartement,84.1,3,2,False,,310000
+Dakar,Mermoz,Appartement,40.1,2,1,True,climatisation|parking,665000
+Dakar,Plateau,Maison,56.5,1,0,True,,1110000
+Dakar,Yoff,Maison,80.6,3,2,True,,505000
+Dakar,Yoff,Maison,42.8,1,0,True,parking|groupe_electrogene,570000
+Dakar,Mermoz,Maison,53.1,2,0,False,,640000
+Dakar,Almadies,Appartement,56.8,3,1,False,parking,510000
+Dakar,Parcelles Assainies,Studio,77.8,4,3,False,gardiennage|piscine,375000
+Thiès,Centre,Appartement,118.4,4,3,False,groupe_electrogene,305000
+Dakar,Parcelles Assainies,Appartement,75.8,3,1,False,piscine,490000
+Dakar,Yoff,Appartement,122.4,5,3,True,piscine,850000
+Saly,Centre,Appartement,91.8,2,0,False,parking|gardiennage|piscine|groupe_electrogene,420000
+Saint-Louis,Centre,Studio,54.1,2,0,False,climatisation,175000
+Dakar,Parcelles Assainies,Appartement,110.1,5,4,False,piscine,540000
+Dakar,Parcelles Assainies,Appartement,101.5,3,2,False,piscine|groupe_electrogene,520000
+Mbour,Centre,Studio,124.0,3,2,False,gardiennage,320000
+Dakar,Parcelles Assainies,Maison,136.9,6,5,False,groupe_electrogene,620000
+Dakar,Yoff,Appartement,168.4,5,4,True,,1215000
+Saly,Centre,Appartement,120.4,4,3,True,parking|piscine,585000
+Dakar,Yoff,Appartement,99.8,4,2,True,climatisation|gardiennage,580000
+Saint-Louis,Centre,Maison,124.3,5,3,False,piscine,510000
+Thiès,Centre,Appartement,71.9,2,0,False,parking|gardiennage,230000
+Thiès,Centre,Appartement,69.0,2,1,False,groupe_electrogene,210000
+Dakar,Yoff,Appartement,179.8,7,6,False,,740000
+Dakar,Yoff,Maison,68.0,3,1,False,groupe_electrogene,590000
+Dakar,Plateau,Appartement,57.6,4,2,False,climatisation|parking,610000
+Dakar,Mermoz,Studio,120.3,3,1,False,climatisation|gardiennage|piscine|groupe_electrogene,1140000
+Mbour,Centre,Appartement,72.2,3,1,False,,280000
+Dakar,Yoff,Maison,136.2,4,3,True,climatisation|groupe_electrogene,905000
+Thiès,Centre,Appartement,162.2,7,5,True,parking|gardiennage,430000
+Mbour,Centre,Appartement,62.0,1,0,False,,175000
+Saint-Louis,Centre,Appartement,127.6,4,3,False,parking,315000
+Dakar,Parcelles Assainies,Studio,67.1,2,0,False,piscine|groupe_electrogene,400000
+Dakar,Parcelles Assainies,Villa,81.5,3,2,False,groupe_electrogene,555000
+Saly,Centre,Appartement,107.5,4,3,False,,325000
+Thiès,Centre,Appartement,69.1,3,2,False,parking|piscine|groupe_electrogene,420000
+Mbour,Centre,Villa,102.7,4,3,True,,625000
+Saly,Centre,Maison,85.0,2,1,True,groupe_electrogene,420000
+Saint-Louis,Centre,Appartement,137.7,6,5,False,piscine|groupe_electrogene,440000
+Dakar,Yoff,Appartement,137.9,5,4,False,,675000
+Thiès,Centre,Maison,69.3,3,1,True,,235000
+Dakar,Parcelles Assainies,Studio,108.8,3,2,True,parking,650000
+Thiès,Centre,Maison,148.2,4,2,True,,490000
+Saly,Centre,Villa,52.6,2,1,True,groupe_electrogene,540000
+Dakar,Yoff,Maison,84.8,4,2,True,piscine,840000
+Dakar,Parcelles Assainies,Appartement,106.4,4,3,True,,675000
+Dakar,Parcelles Assainies,Appartement,51.3,2,1,False,,350000
+Saly,Centre,Appartement,73.7,2,1,False,climatisation|parking,270000
+Dakar,Parcelles Assainies,Appartement,197.9,8,6,False,parking|gardiennage|groupe_electrogene,665000
+Dakar,Yoff,Appartement,67.9,2,0,False,,460000
+Dakar,Yoff,Appartement,71.9,2,0,False,,545000
+Dakar,Plateau,Maison,36.1,2,0,False,piscine,740000
+Dakar,Parcelles Assainies,Appartement,119.7,3,1,False,,485000
+Dakar,Yoff,Appartement,47.9,3,2,False,parking|piscine,545000
+Dakar,Parcelles Assainies,Maison,85.7,4,3,True,climatisation|groupe_electrogene,545000
+Dakar,Parcelles Assainies,Maison,57.9,3,1,False,,310000
+Dakar,Yoff,Studio,102.6,4,2,False,climatisation,510000
+Dakar,Mermoz,Studio,18.0,1,0,False,gardiennage|piscine,620000
+Dakar,Yoff,Maison,95.5,3,1,True,gardiennage|piscine|groupe_electrogene,815000
+Saint-Louis,Centre,Appartement,107.9,4,2,False,gardiennage,330000
+Dakar,Parcelles Assainies,Appartement,74.7,2,1,False,,360000
+Dakar,Yoff,Maison,77.2,3,1,False,,460000
+Dakar,Mermoz,Appartement,69.9,3,1,True,climatisation,820000
+Dakar,Yoff,Appartement,85.1,4,3,False,climatisation,645000
+Dakar,Mermoz,Appartement,180.9,7,5,False,climatisation|parking|piscine|groupe_electrogene,1685000
+Dakar,Parcelles Assainies,Appartement,139.8,6,4,True,piscine,630000
+Mbour,Centre,Appartement,85.1,3,1,False,,230000
+Dakar,Parcelles Assainies,Appartement,73.7,2,0,False,climatisation|parking|groupe_electrogene,515000
+Dakar,Plateau,Studio,133.4,5,3,False,piscine,1015000
+Dakar,Parcelles Assainies,Villa,99.3,3,1,True,,665000
+Dakar,Yoff,Appartement,50.6,2,0,False,piscine|groupe_electrogene,545000
+Dakar,Yoff,Villa,80.1,2,1,False,climatisation|groupe_electrogene,865000
+Saint-Louis,Centre,Appartement,171.5,5,4,True,climatisation|gardiennage,590000
+Mbour,Centre,Villa,117.3,5,4,True,,655000
+Dakar,Parcelles Assainies,Villa,74.2,3,2,True,piscine,830000
+Dakar,Mermoz,Appartement,38.5,1,0,False,gardiennage,435000
+Dakar,Parcelles Assainies,Studio,102.3,4,2,False,climatisation|parking|piscine,450000
+Dakar,Parcelles Assainies,Villa,92.0,3,2,False,piscine,820000
+Thiès,Centre,Villa,83.8,3,2,True,,460000
+Dakar,Almadies,Villa,134.1,6,4,False,groupe_electrogene,2345000
+Dakar,Mermoz,Maison,118.1,5,4,True,gardiennage|piscine,1305000
+Saly,Centre,Appartement,39.3,2,0,False,,215000
+Dakar,Parcelles Assainies,Studio,92.3,5,4,False,parking,435000
+Dakar,Yoff,Maison,45.0,1,0,False,gardiennage,425000
+Saint-Louis,Centre,Maison,70.5,2,1,False,climatisation|parking,265000
+Dakar,Mermoz,Appartement,43.1,1,0,False,climatisation,510000
+Dakar,Mermoz,Maison,44.0,1,0,True,parking|gardiennage,665000
+Dakar,Parcelles Assainies,Appartement,108.6,2,1,True,climatisation|piscine,680000
+Saly,Centre,Studio,103.3,4,3,False,,300000
+Dakar,Yoff,Appartement,88.8,3,2,True,piscine,875000
+Dakar,Non renseigne,Studio,67.3,3,2,False,,590000
+Dakar,Parcelles Assainies,Studio,41.3,2,0,True,climatisation,335000
+Dakar,Yoff,Appartement,70.7,2,0,False,piscine,555000
+Thiès,Centre,Maison,103.5,4,2,False,,280000
+Dakar,Mermoz,Appartement,102.3,4,2,False,parking|piscine|groupe_electrogene,1055000
+Thiès,Centre,Villa,169.8,5,4,False,,645000
+Thiès,Centre,Studio,157.9,5,4,True,,410000
+Mbour,Centre,Appartement,90.6,1,0,True,,305000
+Dakar,Mermoz,Appartement,70.3,2,0,False,gardiennage,665000
+Mbour,Centre,Appartement,58.7,2,0,False,,200000
+Thiès,Centre,Appartement,37.7,1,0,False,,185000
+Dakar,Mermoz,Villa,47.8,1,0,False,climatisation|gardiennage,1170000
+Saint-Louis,Centre,Studio,103.6,3,1,False,climatisation|parking|groupe_electrogene,275000
+Mbour,Centre,Appartement,122.1,3,2,True,climatisation|parking,500000
+Dakar,Parcelles Assainies,Studio,77.8,3,2,False,climatisation|gardiennage,360000
+Saly,Centre,Appartement,255.1,9,7,False,climatisation,540000
+Dakar,Yoff,Studio,48.1,2,1,False,,410000
+Thiès,Centre,Appartement,35.6,1,0,False,,190000
+Saly,Centre,Maison,252.9,8,6,False,piscine,680000
+Dakar,Plateau,Villa,40.2,1,0,False,climatisation|groupe_electrogene,1015000
+Mbour,Centre,Appartement,77.3,2,1,False,climatisation,250000
+Dakar,Plateau,Maison,61.3,2,0,True,climatisation|parking|gardiennage,780000
+Mbour,Centre,Villa,107.4,4,3,False,climatisation|groupe_electrogene,470000
+Thiès,Centre,Appartement,74.3,4,2,False,,220000
+Dakar,Mermoz,Appartement,122.3,5,4,False,parking,810000
+Dakar,Yoff,Maison,135.5,4,3,True,,775000
+Dakar,Plateau,Appartement,37.5,2,0,False,climatisation|piscine,660000
+Dakar,Mermoz,Appartement,57.6,3,1,False,gardiennage,570000
+Dakar,Parcelles Assainies,Appartement,127.5,4,2,True,,655000
+Dakar,Parcelles Assainies,Studio,148.8,6,4,True,parking,540000
+Dakar,Yoff,Appartement,97.9,3,1,True,piscine|groupe_electrogene,880000
+Dakar,Plateau,Appartement,111.4,3,1,False,climatisation|parking,1375000
+Saint-Louis,Centre,Studio,175.1,7,5,False,piscine,395000
+Saint-Louis,Centre,Maison,74.7,3,2,True,climatisation|parking|gardiennage,405000
+Saint-Louis,Centre,Studio,97.4,3,2,False,gardiennage,235000
+Dakar,Parcelles Assainies,Appartement,158.0,6,4,False,climatisation|groupe_electrogene,635000
+Mbour,Centre,Villa,162.8,5,3,False,piscine,580000
+Thiès,Centre,Maison,85.5,4,2,False,climatisation|groupe_electrogene,300000
+Dakar,Parcelles Assainies,Appartement,58.6,2,0,False,parking|piscine,335000
+Dakar,Parcelles Assainies,Villa,85.0,3,1,False,,575000
+Saint-Louis,Centre,Maison,89.2,3,1,False,gardiennage|piscine|groupe_electrogene,440000
+Dakar,Mermoz,Appartement,57.5,1,0,False,gardiennage,450000
+Dakar,Parcelles Assainies,Appartement,62.1,2,1,False,climatisation|piscine|groupe_electrogene,435000
+Saly,Centre,Maison,162.9,4,3,False,,410000
+Dakar,Mermoz,Appartement,114.0,5,3,False,gardiennage|piscine|groupe_electrogene,1015000
+Dakar,Mermoz,Appartement,77.4,2,0,False,parking,775000
+Saly,Centre,Appartement,49.7,2,1,False,parking|groupe_electrogene,255000
+Thiès,Centre,Appartement,62.5,3,2,False,,210000
+Dakar,Parcelles Assainies,Appartement,33.9,2,1,False,,285000
+Mbour,Centre,Maison,99.2,3,2,True,,335000
+Mbour,Centre,Appartement,60.7,2,1,True,parking,245000
+Dakar,Mermoz,Appartement,103.2,5,4,True,,695000
+Thiès,Non renseigne,Maison,126.8,6,4,True,climatisation|parking|groupe_electrogene,525000
+Dakar,Plateau,Appartement,103.9,5,3,False,parking,740000
+Dakar,Parcelles Assainies,Maison,72.6,3,2,False,climatisation|gardiennage,490000
+Thiès,Centre,Appartement,55.9,1,0,False,climatisation|piscine,260000
+Dakar,Mermoz,Appartement,45.8,2,0,True,gardiennage,695000
+Thiès,Centre,Appartement,155.2,5,3,False,,340000
+Mbour,Centre,Appartement,101.7,4,2,False,,330000
+Dakar,Plateau,Appartement,74.7,2,0,False,climatisation,685000
+Thiès,Centre,Studio,118.7,4,3,False,,275000
+Dakar,Mermoz,Appartement,143.2,5,3,False,climatisation,910000
+Mbour,Centre,Maison,61.4,2,0,True,,295000
+Dakar,Parcelles Assainies,Maison,100.2,4,2,False,climatisation|parking,510000
+Thiès,Centre,Appartement,101.2,3,1,False,parking,295000
+Thiès,Centre,Maison,171.4,5,4,True,climatisation|parking|gardiennage,635000
+Dakar,Yoff,Appartement,74.2,4,3,False,gardiennage,465000
+Thiès,Centre,Appartement,54.8,4,2,False,groupe_electrogene,310000
+Saint-Louis,Centre,Appartement,105.7,4,3,False,parking|gardiennage|piscine|groupe_electrogene,475000
+Thiès,Centre,Studio,123.5,3,2,False,climatisation,240000
+Saint-Louis,Centre,Villa,96.1,3,2,False,,360000
+Saly,Centre,Appartement,177.1,7,5,False,climatisation|parking|piscine|groupe_electrogene,615000
+Dakar,Plateau,Maison,74.1,4,3,False,,720000
+Dakar,Yoff,Studio,97.3,3,2,False,climatisation|gardiennage,530000
+Dakar,Mermoz,Appartement,39.2,1,0,False,,505000
+Mbour,Centre,Studio,53.2,2,0,True,climatisation,290000
+Dakar,Parcelles Assainies,Maison,61.6,3,2,False,piscine|groupe_electrogene,485000
+Dakar,Mermoz,Villa,80.5,3,1,False,gardiennage,845000
+Dakar,Parcelles Assainies,Villa,42.9,1,0,False,climatisation|gardiennage|groupe_electrogene,565000
+Mbour,Centre,Appartement,117.8,5,4,False,,305000
+Dakar,Parcelles Assainies,Appartement,58.7,3,2,False,,405000
+Thiès,Centre,Maison,232.7,8,6,False,,635000
+Dakar,Parcelles Assainies,Appartement,59.8,2,1,True,,345000
+Saly,Non renseigne,Appartement,92.3,3,2,True,piscine,540000
+Dakar,Plateau,Villa,86.6,2,0,False,groupe_electrogene,1200000
+Dakar,Almadies,Appartement,50.8,3,2,False,groupe_electrogene,770000
+Mbour,Centre,Appartement,80.6,3,2,True,climatisation|groupe_electrogene,335000
+Saly,Centre,Studio,80.1,3,2,True,parking|gardiennage|groupe_electrogene,485000
+Dakar,Parcelles Assainies,Appartement,135.5,6,5,True,parking|gardiennage,795000
+Dakar,Yoff,Appartement,107.6,3,2,False,piscine,705000
+Saint-Louis,Centre,Villa,117.0,4,3,False,piscine,735000
+Mbour,Centre,Appartement,134.1,5,3,False,climatisation,320000
+Dakar,Mermoz,Appartement,117.9,4,2,True,parking,930000
+Dakar,Mermoz,Appartement,99.7,4,2,True,climatisation|gardiennage,1090000
+Saint-Louis,Centre,Villa,61.3,2,1,True,groupe_electrogene,345000
+Saint-Louis,Centre,Appartement,96.6,3,2,False,parking,245000
+Saint-Louis,Centre,Maison,55.3,2,1,True,piscine,470000
+Thiès,Centre,Appartement,83.8,3,1,False,piscine|groupe_electrogene,365000
+Dakar,Yoff,Appartement,78.3,4,2,False,,420000
+Saly,Centre,Villa,80.8,3,1,False,parking|piscine,485000
+Mbour,Centre,Maison,43.1,2,0,False,piscine,325000
+Mbour,Centre,Villa,18.0,1,0,True,gardiennage,350000
+Dakar,Parcelles Assainies,Appartement,71.0,2,1,True,climatisation|parking,530000
+Dakar,Yoff,Maison,149.4,5,4,False,climatisation|groupe_electrogene,770000
+Saint-Louis,Centre,Studio,91.6,4,2,False,,285000
+Dakar,Mermoz,Appartement,144.1,5,3,False,,800000
+Saly,Centre,Appartement,55.5,3,2,False,groupe_electrogene,255000
+Dakar,Yoff,Studio,69.2,4,3,False,climatisation,430000
+Saint-Louis,Centre,Appartement,239.6,9,7,False,gardiennage,480000
+Mbour,Centre,Maison,57.3,2,0,False,parking,250000
+Dakar,Yoff,Villa,115.9,4,2,True,piscine|groupe_electrogene,1805000
+Dakar,Almadies,Appartement,115.8,3,1,True,,1120000
+Thiès,Centre,Appartement,109.6,4,2,True,,350000
+Thiès,Centre,Appartement,116.6,4,2,False,gardiennage|groupe_electrogene,340000
+Dakar,Mermoz,Appartement,56.9,2,1,False,parking|gardiennage,570000
+Thiès,Centre,Appartement,72.8,3,2,False,groupe_electrogene,270000
+Saly,Centre,Maison,18.0,1,0,True,gardiennage,290000
+Dakar,Parcelles Assainies,Appartement,174.2,6,5,False,gardiennage,580000
+Dakar,Yoff,Maison,116.3,4,3,False,,785000
+Dakar,Parcelles Assainies,Appartement,61.6,3,1,False,parking|gardiennage,290000
+Dakar,Plateau,Appartement,55.8,3,2,False,parking|gardiennage|piscine|groupe_electrogene,1160000
+Dakar,Plateau,Appartement,150.6,5,4,False,climatisation,1125000
+Dakar,Parcelles Assainies,Maison,59.4,2,1,False,climatisation|parking|gardiennage|groupe_electrogene,485000
+Thiès,Centre,Appartement,61.5,2,1,False,parking|groupe_electrogene,245000
+Dakar,Mermoz,Appartement,49.6,2,0,False,parking|groupe_electrogene,685000
+Saly,Centre,Studio,127.0,5,3,True,groupe_electrogene,430000
+Dakar,Mermoz,Maison,143.1,7,5,False,parking,850000
+Dakar,Yoff,Appartement,78.5,3,1,False,parking,540000
+Saint-Louis,Centre,Villa,143.5,6,4,False,,510000
+Mbour,Centre,Appartement,105.1,2,1,True,,310000
+Dakar,Parcelles Assainies,Appartement,47.9,1,0,False,gardiennage,280000
+Dakar,Parcelles Assainies,Maison,168.1,7,6,False,climatisation,765000
+Dakar,Yoff,Appartement,49.3,2,1,False,,475000
+Dakar,Parcelles Assainies,Appartement,81.5,1,0,False,,375000
+Dakar,Yoff,Studio,78.7,3,2,False,groupe_electrogene,390000
+Dakar,Plateau,Appartement,71.6,4,3,True,gardiennage,1045000
+Dakar,Mermoz,Studio,27.6,1,0,False,climatisation,390000
+Dakar,Mermoz,Villa,215.2,9,8,True,parking|piscine,2445000
+Saly,Centre,Maison,30.0,1,0,False,parking|groupe_electrogene,270000
+Thiès,Centre,Maison,173.2,7,6,False,piscine,650000
+Dakar,Parcelles Assainies,Maison,54.8,2,1,True,,385000
+Dakar,Parcelles Assainies,Villa,64.7,1,0,True,piscine,860000
+Dakar,Parcelles Assainies,Appartement,164.9,6,5,False,parking|piscine,590000
+Dakar,Parcelles Assainies,Appartement,110.7,5,3,True,,480000
+Saint-Louis,Centre,Maison,40.0,2,1,False,groupe_electrogene,190000
+Mbour,Centre,Maison,39.5,2,1,True,climatisation,255000
+Saly,Centre,Appartement,102.7,3,2,False,parking,340000
+Saly,Centre,Maison,48.8,1,0,False,,230000
+Saly,Centre,Appartement,113.2,5,4,False,climatisation|piscine,380000
+Saly,Centre,Villa,119.0,6,4,True,,675000
+Dakar,Mermoz,Appartement,58.0,3,2,False,piscine,660000
+Dakar,Yoff,Appartement,66.5,1,0,False,groupe_electrogene,475000
+Dakar,Parcelles Assainies,Appartement,104.4,3,2,False,gardiennage,565000
+Thiès,Centre,Appartement,56.6,1,0,False,,180000
+Dakar,Non renseigne,Appartement,91.7,2,1,False,,750000
+Mbour,Centre,Appartement,246.7,9,7,False,climatisation|gardiennage,555000
+Thiès,Centre,Appartement,106.9,4,3,False,,265000
+Dakar,Parcelles Assainies,Appartement,72.2,1,0,False,,415000
+Dakar,Parcelles Assainies,Appartement,226.0,9,7,False,,865000
+Dakar,Plateau,Appartement,131.4,5,4,False,,945000
+Dakar,Almadies,Appartement,49.5,1,0,False,gardiennage,615000
+Mbour,Centre,Appartement,54.7,2,1,False,,160000
+Thiès,Centre,Appartement,32.1,1,0,False,gardiennage|groupe_electrogene,185000
+Saint-Louis,Centre,Appartement,103.5,3,2,False,,235000
+Dakar,Parcelles Assainies,Appartement,24.6,1,0,False,gardiennage|groupe_electrogene,235000
+Dakar,Mermoz,Studio,225.8,8,7,False,,1120000
+Dakar,Non renseigne,Villa,76.7,3,1,False,gardiennage,565000
+Saint-Louis,Centre,Villa,135.4,5,3,False,parking,630000
+Saint-Louis,Centre,Maison,73.1,2,1,False,,275000
+Dakar,Parcelles Assainies,Maison,102.6,4,2,False,parking,445000
+Saly,Centre,Appartement,82.0,4,2,True,,395000
+Dakar,Yoff,Studio,90.4,3,1,False,,485000
+Mbour,Centre,Studio,156.1,6,5,False,,360000
+Dakar,Plateau,Studio,193.0,7,5,False,,1060000
+Dakar,Plateau,Villa,185.6,6,5,False,,1635000
+Mbour,Centre,Appartement,340.2,12,11,False,,775000
+Dakar,Plateau,Studio,60.0,2,1,False,groupe_electrogene,580000
+Dakar,Plateau,Studio,107.5,4,2,False,climatisation|parking|gardiennage|piscine,1040000
+Dakar,Yoff,Appartement,60.7,2,0,False,,380000
+Dakar,Parcelles Assainies,Villa,153.0,5,3,False,,1105000
+Saint-Louis,Centre,Appartement,50.8,2,0,False,piscine,265000
+Mbour,Centre,Villa,157.4,5,4,False,gardiennage|piscine,885000
+Mbour,Centre,Studio,97.7,2,1,False,groupe_electrogene,255000
+Dakar,Parcelles Assainies,Appartement,84.4,3,1,False,piscine,495000
+Dakar,Parcelles Assainies,Maison,89.4,3,1,False,,550000
+Dakar,Parcelles Assainies,Appartement,45.9,2,1,True,groupe_electrogene,470000
+Dakar,Almadies,Studio,48.1,1,0,True,,635000
+Dakar,Yoff,Studio,98.6,5,3,False,,590000
+Saly,Centre,Maison,98.3,3,2,True,,335000
+Mbour,Centre,Studio,62.2,2,0,False,groupe_electrogene,200000
+Saint-Louis,Centre,Appartement,76.3,2,0,False,,210000
+Dakar,Parcelles Assainies,Appartement,112.1,3,2,True,piscine,675000
+Dakar,Parcelles Assainies,Appartement,56.4,3,2,False,,420000
+Dakar,Parcelles Assainies,Appartement,29.9,2,0,False,climatisation,260000
+Dakar,Parcelles Assainies,Appartement,177.3,7,6,False,,615000
+Dakar,Parcelles Assainies,Appartement,102.1,3,2,False,parking,495000
+Dakar,Parcelles Assainies,Appartement,68.2,4,3,False,climatisation,325000
+Dakar,Parcelles Assainies,Appartement,60.6,2,0,True,groupe_electrogene,345000
+Saly,Centre,Studio,56.1,2,0,True,,240000
+Dakar,Parcelles Assainies,Appartement,152.7,7,6,False,climatisation|piscine,700000
+Saly,Centre,Villa,41.6,2,0,False,parking,380000
+Dakar,Parcelles Assainies,Appartement,107.4,6,5,False,parking,525000
+Thiès,Centre,Appartement,107.4,4,3,False,gardiennage,200000
+Dakar,Parcelles Assainies,Maison,128.1,4,3,True,climatisation|gardiennage|piscine,940000
+Dakar,Yoff,Appartement,71.7,2,1,False,parking|gardiennage|piscine,715000
+Dakar,Plateau,Appartement,169.9,5,3,False,piscine,1690000
+Dakar,Almadies,Maison,130.0,4,2,False,gardiennage,1140000
+Saly,Centre,Appartement,70.5,3,2,False,gardiennage|piscine,460000
+Dakar,Parcelles Assainies,Appartement,59.1,3,1,True,,390000
+Thiès,Centre,Maison,82.1,3,1,True,groupe_electrogene,340000
+Dakar,Yoff,Appartement,69.2,2,0,False,parking,500000
+Dakar,Yoff,Studio,53.9,2,1,False,climatisation,325000
+Dakar,Parcelles Assainies,Appartement,91.5,4,3,False,gardiennage|groupe_electrogene,470000
+Dakar,Parcelles Assainies,Villa,76.5,3,2,False,,555000
+Saly,Centre,Studio,189.8,7,6,True,piscine|groupe_electrogene,655000
+Mbour,Centre,Villa,69.2,2,1,False,gardiennage,455000
+Saint-Louis,Centre,Studio,58.8,3,2,True,,270000
+Dakar,Yoff,Appartement,88.5,1,0,True,parking|piscine,1035000
+Dakar,Almadies,Maison,100.5,4,2,False,climatisation|parking|gardiennage,1360000
+Saly,Centre,Appartement,104.4,6,4,False,,375000
+Dakar,Plateau,Studio,103.9,3,1,False,climatisation|groupe_electrogene,825000
+Dakar,Yoff,Maison,90.0,3,2,True,climatisation|piscine,865000
+Dakar,Yoff,Appartement,86.7,3,1,False,climatisation|parking,530000
+Mbour,Centre,Villa,119.3,4,2,False,,560000
+Thiès,Centre,Appartement,51.2,3,1,False,parking|gardiennage,260000
+Saint-Louis,Centre,Maison,59.0,2,0,False,,170000
+Mbour,Centre,Studio,35.6,1,0,False,climatisation,175000
+Dakar,Parcelles Assainies,Appartement,51.7,2,0,True,groupe_electrogene,405000
+Saly,Centre,Maison,145.3,5,3,False,climatisation|parking|piscine,585000
+Dakar,Parcelles Assainies,Studio,116.8,7,5,False,,545000
+Thiès,Centre,Appartement,202.3,7,5,False,parking|gardiennage|groupe_electrogene,420000
+Dakar,Parcelles Assainies,Maison,178.6,7,5,False,gardiennage,680000
+Saly,Centre,Appartement,117.3,3,2,False,parking|piscine|groupe_electrogene,455000
+Dakar,Parcelles Assainies,Maison,95.2,3,1,False,groupe_electrogene,465000
+Dakar,Mermoz,Appartement,89.3,4,3,True,piscine,1020000
+Dakar,Mermoz,Villa,23.6,1,0,False,,520000
+Dakar,Parcelles Assainies,Villa,84.3,1,0,False,parking|groupe_electrogene,645000
+Dakar,Mermoz,Appartement,64.7,2,0,False,,570000
+Thiès,Centre,Appartement,53.0,3,2,False,gardiennage|piscine,260000
+Dakar,Plateau,Maison,108.1,4,2,True,climatisation|parking|gardiennage,1365000
+Saly,Centre,Maison,79.1,3,2,False,parking,405000
+Dakar,Mermoz,Appartement,92.2,2,1,False,gardiennage,775000
+Saint-Louis,Centre,Appartement,48.7,2,1,False,,180000
+Dakar,Parcelles Assainies,Appartement,132.8,5,3,False,piscine,465000
+Thiès,Centre,Villa,69.0,1,0,False,groupe_electrogene,340000
+Thiès,Centre,Appartement,105.2,5,4,False,,290000
+Dakar,Yoff,Studio,72.1,3,1,False,parking|gardiennage,505000
+Saly,Centre,Maison,20.9,2,0,True,climatisation,275000
+Dakar,Mermoz,Villa,110.3,4,3,False,climatisation|parking|gardiennage,1230000
+Dakar,Yoff,Appartement,81.8,3,1,False,,595000
+Thiès,Centre,Appartement,34.1,2,1,False,gardiennage,190000
+Mbour,Centre,Villa,45.4,2,0,False,climatisation|parking|piscine,435000
+Dakar,Yoff,Villa,134.7,3,2,False,parking|piscine,1255000
+Dakar,Parcelles Assainies,Appartement,35.2,1,0,True,,305000
+Mbour,Centre,Appartement,68.0,2,0,False,,260000
+Saint-Louis,Centre,Appartement,211.0,7,5,False,piscine|groupe_electrogene,545000
+Saly,Centre,Appartement,111.7,4,2,True,,460000
+Dakar,Parcelles Assainies,Appartement,125.5,5,3,True,,590000
+Thiès,Centre,Villa,75.6,4,3,False,parking|piscine,565000
+Dakar,Parcelles Assainies,Appartement,32.4,2,1,False,,215000
+Saly,Centre,Maison,96.7,3,2,False,groupe_electrogene,425000
+Dakar,Plateau,Appartement,47.3,2,1,True,gardiennage,785000
+Saint-Louis,Centre,Appartement,44.7,1,0,False,climatisation,255000
+Dakar,Mermoz,Maison,91.1,3,2,True,groupe_electrogene,1025000
+Thiès,Centre,Appartement,49.1,2,0,False,gardiennage,200000
+Saint-Louis,Centre,Maison,85.8,1,0,False,,275000
+Dakar,Mermoz,Appartement,60.1,4,3,False,,520000
+Saly,Centre,Villa,84.3,3,1,False,climatisation|piscine|groupe_electrogene,805000
+Dakar,Plateau,Studio,65.7,2,0,False,,580000
+Thiès,Centre,Studio,85.5,5,3,True,climatisation|gardiennage|groupe_electrogene,520000
+Dakar,Yoff,Appartement,171.3,6,5,False,climatisation|groupe_electrogene,785000
+Dakar,Parcelles Assainies,Appartement,127.0,5,3,False,climatisation,565000
+Dakar,Plateau,Appartement,80.6,2,0,False,,730000
+Dakar,Almadies,Maison,157.9,7,6,False,parking|groupe_electrogene,1830000
+Dakar,Yoff,Appartement,106.0,4,2,False,groupe_electrogene,680000
+Thiès,Centre,Appartement,152.6,6,4,False,climatisation,445000
+Thiès,Centre,Appartement,37.5,2,1,True,gardiennage|groupe_electrogene,235000
+Thiès,Centre,Appartement,49.5,2,1,False,parking,165000
+Dakar,Yoff,Appartement,96.1,3,2,True,climatisation|piscine,575000
+Dakar,Parcelles Assainies,Appartement,79.6,4,2,False,climatisation|parking,320000
+Dakar,Yoff,Appartement,85.6,5,3,False,,505000
+Saint-Louis,Centre,Maison,114.6,4,2,False,,325000
+Mbour,Centre,Appartement,96.6,4,2,False,climatisation,315000
+Dakar,Mermoz,Appartement,133.0,5,4,True,parking,1165000
+Thiès,Centre,Maison,131.2,6,4,False,parking|piscine,435000
+Dakar,Plateau,Studio,50.8,1,0,True,,685000
+Dakar,Parcelles Assainies,Appartement,21.4,1,0,False,gardiennage,195000
+Dakar,Parcelles Assainies,Maison,48.9,1,0,False,climatisation,290000
+Dakar,Parcelles Assainies,Villa,47.2,1,0,False,,350000
+Thiès,Centre,Maison,88.9,3,2,True,climatisation|piscine,430000
+Saly,Centre,Villa,88.3,3,2,True,climatisation|groupe_electrogene,590000
+Dakar,Almadies,Studio,77.1,4,3,False,piscine|groupe_electrogene,810000
+Dakar,Parcelles Assainies,Appartement,108.0,4,2,True,piscine,645000
+Saint-Louis,Centre,Appartement,257.2,8,7,False,groupe_electrogene,685000
+Saly,Centre,Maison,76.3,2,0,False,,285000
+Thiès,Centre,Villa,98.1,5,4,False,groupe_electrogene,430000
+Dakar,Yoff,Appartement,85.6,4,2,True,gardiennage|piscine|groupe_electrogene,685000
+Thiès,Centre,Appartement,62.6,2,1,False,parking,210000
+Dakar,Parcelles Assainies,Maison,115.1,4,3,False,gardiennage,420000
+Saly,Centre,Appartement,74.3,4,3,False,gardiennage|piscine|groupe_electrogene,395000
+Dakar,Almadies,Studio,55.5,1,0,False,,675000
+Thiès,Centre,Maison,57.8,2,0,True,groupe_electrogene,280000
+Dakar,Almadies,Studio,135.4,7,6,False,parking|gardiennage,1270000
+Dakar,Parcelles Assainies,Studio,113.7,4,3,False,groupe_electrogene,490000
+Mbour,Centre,Maison,66.3,2,0,False,gardiennage|piscine|groupe_electrogene,335000
+Thiès,Centre,Maison,107.1,4,2,False,gardiennage,345000
+Dakar,Parcelles Assainies,Studio,86.1,3,2,False,climatisation,495000
+Saly,Centre,Studio,99.0,2,1,False,parking,270000
+Mbour,Centre,Studio,61.7,3,1,False,,220000
+Dakar,Parcelles Assainies,Appartement,48.0,3,2,False,,255000
+Dakar,Parcelles Assainies,Maison,74.1,2,1,False,climatisation|gardiennage|groupe_electrogene,410000
+Dakar,Mermoz,Appartement,52.7,2,1,False,piscine,610000
+Thiès,Centre,Studio,50.5,1,0,False,climatisation,150000
+Dakar,Yoff,Maison,38.8,1,0,False,piscine,490000
+Dakar,Mermoz,Appartement,21.5,1,0,True,parking|gardiennage,605000
+Saly,Centre,Appartement,67.0,2,1,False,,230000
+Saly,Centre,Appartement,147.9,7,6,False,gardiennage,395000
+Mbour,Centre,Maison,129.9,5,3,False,gardiennage,395000
+Saly,Centre,Appartement,184.0,7,6,False,,615000
+Saint-Louis,Centre,Appartement,49.3,2,1,True,parking|gardiennage,230000
+Saint-Louis,Centre,Villa,118.9,5,4,True,piscine,650000
+Saint-Louis,Centre,Studio,80.4,3,1,False,parking,255000
+Dakar,Mermoz,Appartement,57.9,2,0,False,,530000
+Dakar,Parcelles Assainies,Appartement,139.6,5,4,False,climatisation,515000
+Dakar,Parcelles Assainies,Villa,80.9,3,2,False,,595000
+Thiès,Centre,Maison,29.8,1,0,True,parking|gardiennage|groupe_electrogene,210000
+Dakar,Almadies,Maison,129.3,4,3,False,groupe_electrogene,1270000
+Dakar,Yoff,Appartement,103.5,3,1,False,parking,710000
+Thiès,Centre,Appartement,91.5,3,1,True,,285000
+Dakar,Parcelles Assainies,Appartement,43.9,1,0,False,parking,330000
+Dakar,Yoff,Studio,97.0,2,1,False,piscine,565000
+Mbour,Centre,Appartement,171.5,7,6,False,parking,355000
+Mbour,Centre,Appartement,102.0,4,2,False,gardiennage,330000
+Dakar,Parcelles Assainies,Studio,35.5,3,1,True,gardiennage|groupe_electrogene,365000
+Dakar,Plateau,Villa,105.9,3,2,True,parking,2045000
+Dakar,Yoff,Studio,102.6,3,2,True,parking,690000
+Mbour,Centre,Appartement,123.7,4,3,False,,435000
+Mbour,Centre,Maison,101.1,4,3,False,climatisation|groupe_electrogene,330000
+Dakar,Almadies,Appartement,50.6,2,1,False,,685000
+Saint-Louis,Centre,Appartement,89.0,3,2,True,groupe_electrogene,290000
+Dakar,Yoff,Maison,74.8,3,1,False,parking,510000
+Dakar,Almadies,Appartement,94.4,2,1,True,,1215000
+Saly,Centre,Maison,142.1,6,5,False,gardiennage,425000
+Dakar,Parcelles Assainies,Villa,60.0,2,0,False,climatisation|piscine,625000
+Dakar,Plateau,Villa,197.8,7,5,False,gardiennage|piscine,2160000
+Dakar,Plateau,Appartement,105.6,3,1,False,parking|gardiennage|groupe_electrogene,1040000
+Thiès,Centre,Appartement,129.6,4,2,True,groupe_electrogene,430000
+Saly,Centre,Appartement,121.0,4,2,False,parking,415000
+Saly,Centre,Appartement,103.5,4,3,False,groupe_electrogene,295000
+Dakar,Mermoz,Appartement,113.1,4,3,False,climatisation|parking,790000
+Dakar,Parcelles Assainies,Appartement,18.0,2,1,False,parking|gardiennage|groupe_electrogene,335000
+Mbour,Centre,Studio,120.9,5,3,False,gardiennage,285000
+Dakar,Plateau,Maison,52.8,3,1,True,,810000
+Mbour,Centre,Villa,83.4,4,2,False,piscine,605000
+Thiès,Centre,Appartement,103.1,4,2,False,,330000
+Dakar,Parcelles Assainies,Appartement,145.3,5,4,True,climatisation,675000
+Mbour,Centre,Appartement,52.8,3,1,False,climatisation,245000
+Dakar,Yoff,Appartement,67.8,3,1,False,parking,440000
+Dakar,Mermoz,Appartement,72.7,3,1,False,parking|piscine,1030000
+Thiès,Centre,Villa,95.0,2,0,True,climatisation|parking|piscine|groupe_electrogene,770000
+Dakar,Plateau,Appartement,75.1,2,1,False,piscine|groupe_electrogene,720000
+Thiès,Centre,Appartement,113.4,4,2,False,climatisation|parking|gardiennage,400000
+Thiès,Centre,Maison,30.6,2,1,False,piscine,335000
+Saly,Centre,Maison,80.0,3,2,True,gardiennage,465000
+Saly,Centre,Maison,179.9,7,6,False,climatisation|gardiennage,475000
+Dakar,Almadies,Appartement,75.2,4,3,False,piscine|groupe_electrogene,1280000
+Dakar,Almadies,Studio,105.8,5,3,False,parking|gardiennage,1230000
+Saint-Louis,Centre,Appartement,134.3,6,4,True,,480000
+Saly,Centre,Appartement,104.1,3,2,False,,335000
+Dakar,Yoff,Maison,206.6,8,6,False,climatisation|groupe_electrogene,1175000
+Dakar,Plateau,Studio,90.0,3,2,False,parking,635000
+Dakar,Almadies,Appartement,116.2,3,2,False,gardiennage|groupe_electrogene,1065000
+Dakar,Yoff,Maison,97.0,3,1,True,climatisation|piscine,720000
+Thiès,Centre,Appartement,162.1,7,6,True,groupe_electrogene,470000
+Dakar,Parcelles Assainies,Appartement,69.6,3,1,False,parking|piscine,430000
+Saint-Louis,Centre,Appartement,214.9,9,7,False,,575000
+Mbour,Centre,Studio,60.8,2,0,True,,230000
+Mbour,Centre,Appartement,188.4,9,8,False,climatisation,545000
+Dakar,Almadies,Studio,49.5,2,0,False,,640000
+Dakar,Almadies,Appartement,118.0,4,3,False,gardiennage|groupe_electrogene,1370000
+Saint-Louis,Centre,Studio,86.1,2,0,False,piscine,245000
+Mbour,Centre,Studio,132.9,6,4,False,,305000
+Dakar,Parcelles Assainies,Appartement,107.1,3,2,False,piscine,475000
+Mbour,Centre,Appartement,129.4,4,3,False,,335000
+Dakar,Yoff,Appartement,48.5,3,2,False,gardiennage|groupe_electrogene,415000
+Mbour,Centre,Studio,33.9,2,1,False,climatisation,180000
+Dakar,Parcelles Assainies,Appartement,44.2,2,1,True,groupe_electrogene,370000
+Dakar,Plateau,Maison,43.6,1,0,False,,650000
+Dakar,Mermoz,Appartement,48.2,2,0,True,,625000
+Dakar,Plateau,Studio,63.0,2,0,False,gardiennage|piscine,700000
+Dakar,Plateau,Maison,62.7,3,2,True,,930000
+Dakar,Parcelles Assainies,Maison,87.1,4,3,False,climatisation|gardiennage|piscine|groupe_electrogene,490000
+Dakar,Yoff,Villa,54.9,2,0,True,,830000
+Saint-Louis,Centre,Appartement,57.3,4,2,False,climatisation|gardiennage|piscine,335000
+Dakar,Almadies,Studio,77.6,3,1,False,parking,645000
+Thiès,Centre,Appartement,141.9,5,3,True,climatisation,375000
+Mbour,Centre,Appartement,69.0,3,1,False,gardiennage,230000
+Dakar,Parcelles Assainies,Villa,84.2,4,2,False,climatisation|groupe_electrogene,765000
+Dakar,Almadies,Maison,91.3,5,3,False,piscine,1090000
+Mbour,Centre,Maison,51.3,3,1,True,piscine,365000
+Mbour,Centre,Appartement,72.5,3,2,False,climatisation,260000
+Dakar,Mermoz,Appartement,59.8,2,0,False,gardiennage,545000
+Mbour,Centre,Appartement,135.3,5,3,False,parking,370000
+Dakar,Mermoz,Maison,129.8,6,5,False,gardiennage,805000
+Dakar,Parcelles Assainies,Appartement,56.6,2,1,True,,370000
+Saint-Louis,Centre,Appartement,83.4,3,1,True,gardiennage|groupe_electrogene,355000
+Dakar,Yoff,Appartement,116.2,4,2,False,,525000
+Saint-Louis,Centre,Appartement,101.3,3,1,True,climatisation,350000
+Dakar,Plateau,Appartement,106.8,4,2,False,parking|groupe_electrogene,1150000
+Saint-Louis,Centre,Appartement,51.5,2,0,False,parking|groupe_electrogene,230000
+Dakar,Mermoz,Studio,185.0,8,7,False,gardiennage,1045000
+Dakar,Almadies,Maison,62.4,2,1,True,climatisation,830000
+Dakar,Parcelles Assainies,Appartement,61.4,2,1,False,climatisation,280000
+Dakar,Yoff,Maison,41.2,1,0,False,climatisation|piscine,520000
+Saint-Louis,Centre,Studio,79.3,3,1,False,parking|gardiennage,270000
+Dakar,Plateau,Appartement,149.3,6,4,False,parking,1050000
+Dakar,Plateau,Appartement,100.8,5,4,False,gardiennage,915000
+Dakar,Parcelles Assainies,Appartement,82.6,3,2,True,piscine,455000
+Dakar,Almadies,Appartement,125.2,5,3,False,parking,1080000
+Mbour,Centre,Studio,147.5,5,3,True,groupe_electrogene,505000
+Dakar,Mermoz,Villa,129.7,5,3,True,,1585000
+Saly,Centre,Appartement,28.2,1,0,False,parking,170000
+Dakar,Plateau,Studio,125.7,5,3,False,parking|groupe_electrogene,1015000
+Thiès,Centre,Appartement,108.9,4,2,False,parking,340000
+Dakar,Almadies,Maison,55.9,2,0,True,parking,940000
+Dakar,Parcelles Assainies,Studio,109.1,4,2,True,climatisation|parking,535000
+Mbour,Centre,Appartement,149.5,5,3,False,parking|piscine,515000
+Saly,Centre,Appartement,63.8,4,3,False,piscine,420000
+Mbour,Centre,Maison,134.3,7,6,False,parking,355000
+Dakar,Non renseigne,Villa,101.9,3,2,True,parking,1545000
+Dakar,Almadies,Appartement,18.0,1,0,True,,600000
+Thiès,Centre,Appartement,85.7,2,0,False,groupe_electrogene,240000
+Dakar,Parcelles Assainies,Appartement,99.9,3,2,False,piscine,560000
+Saint-Louis,Centre,Maison,74.0,3,2,True,piscine|groupe_electrogene,400000
