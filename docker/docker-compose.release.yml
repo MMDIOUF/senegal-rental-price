@@ -1,0 +1,20 @@
+services:
+  api:
+    image: ghcr.io/mmdiouf/senegal-rental-api:${IMAGE_TAG:-latest}
+    environment:
+      MODEL_PATH: /app/models/gradient_boosting.joblib
+      LOG_LEVEL: INFO
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+
+  frontend:
+    image: ghcr.io/mmdiouf/senegal-rental-frontend:${IMAGE_TAG:-latest}
+    environment:
+      API_URL: http://api:8000
+    ports:
+      - "8501:8501"
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped

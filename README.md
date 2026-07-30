@@ -1,6 +1,7 @@
 # Senegal Rental Price
 
 [![CI](https://github.com/MMDIOUF/senegal-rental-price/actions/workflows/ci.yml/badge.svg)](https://github.com/MMDIOUF/senegal-rental-price/actions/workflows/ci.yml)
+[![CD](https://github.com/MMDIOUF/senegal-rental-price/actions/workflows/cd.yml/badge.svg)](https://github.com/MMDIOUF/senegal-rental-price/actions/workflows/cd.yml)
 
 Projet M2 DSIA de mise en production d'un modèle de prédiction des loyers au Sénégal.
 L'objectif principal est la qualité de la chaîne MLOps : reproductibilité, typage, tests,
@@ -50,6 +51,34 @@ Le modèle doit avoir été entraîné une fois avant le build.
 
 ```bash
 docker compose -f docker/docker-compose.yml up --build
+```
+
+## Bonus CD - livraison continue
+
+Après une CI réussie sur `main`, le workflow `.github/workflows/cd.yml` reconstruit le
+Gradient Boosting puis publie deux images dans GitHub Container Registry :
+
+- `ghcr.io/mmdiouf/senegal-rental-api:latest`
+- `ghcr.io/mmdiouf/senegal-rental-frontend:latest`
+
+Chaque image reçoit également un tag immuable `sha-<commit>`, utilisable pour revenir à une
+version précise. Le workflow peut aussi être lancé manuellement depuis GitHub Actions.
+
+Déployer les images publiées :
+
+```powershell
+$env:IMAGE_TAG = "latest"
+docker compose -f docker/docker-compose.release.yml pull
+docker compose -f docker/docker-compose.release.yml up -d
+docker compose -f docker/docker-compose.release.yml ps
+```
+
+Revenir à une version connue :
+
+```powershell
+$env:IMAGE_TAG = "sha-<identifiant_commit>"
+docker compose -f docker/docker-compose.release.yml pull
+docker compose -f docker/docker-compose.release.yml up -d
 ```
 
 ## Qualité
